@@ -1,0 +1,2099 @@
+ËõĞ´	Ó¢ÎÄ	ÖĞÎÄ	Àà±ğ
+AAC	automatic ampltiude control	×Ô¶¯·ù¶È¿ØÖÆ	ÒôÆµĞÅºÅ ²ÎÊı
+null	AB	ABÖÆÁ¢ÌåÉùÂ¼Òô·¨	ÒôÆµÓ²¼ş Éè±¸
+null	Abeyancd	ÔİÍ££¬Ç±Ì¬	ÆäËû Í¨ÓÃÊõÓï
+A-B	repeat	A-BÖØ¸´	ÆäËû Í¨ÓÃÊõÓï
+ABS	absolute	¾ø¶ÔµÄ£¬ÍêÈ«µÄ£¬¾ø¶ÔÊ±¼ä	ÆäËû Í¨ÓÃÊõÓï
+ABS	american bureau of standard	ÃÀ¹ú±ê×¼¾Ö	ÆäËû Í¨ÓÃÊõÓï
+ABSS	auto blank secrion scanning	×Ô¶¯´Å´ø¿Õ°×²¿·ÖÉ¨Ãè	ÒôÆµÓ²¼ş Éè±¸
+null	Abstime	¾ø¶ÔÔËĞĞÊ±¼ä	ÆäËû Í¨ÓÃÊõÓï
+A.DEF	audio defeat	ÒôÆµ½µÔë£¬ÔëÉùÒÖÖÆ£¬°éÒô¾²Ôë	ÒôÆµĞ§¹û ´¦Àí
+ADJ	adjective	¸½ÊôµÄ£¬¸½¼ş	ÆäËû Í¨ÓÃÊõÓï
+ADJ	Adjust	µ÷½Ú	ÆäËû Í¨ÓÃÊõÓï
+ADJ	acoustic delay line	ÉùÑÓ³ÙÏß	ÒôÆµĞ§¹û ´¦Àí
+null	Admission	ÔÊĞí½øÈë£¬¹©¸ø	ÆäËû Í¨ÓÃÊõÓï
+ADP	acoustic data processor	ÒôÏìÊı¾İ´¦Àí»ú	ÒôÆµÓ²¼ş Éè±¸
+ADP(T)	adpter	ÑÓÅäÆ÷£¬×ª½ÓÆ÷	ÒôÆµÓ²¼ş Éè±¸
+ADRES	automatic dynamic range expansion system	¶¯Ì¬·¶Î§À©Õ¹ÏµÍ³	ÒôÆµĞ§¹û ´¦Àí
+ADRM	analog to digital remaster	Ä£ÄâÂ¼Òô£¬Êı×Ö´¦ÀíÊıÂë³ªÅÌ	ÒôÆµĞ§¹û ´¦Àí
+ADS	audio distribution system	ÒôÆµ·ÖÅäÏµÍ³	ÒôÆµÓ²¼ş Éè±¸
+A.DUB	audio dubbing	ÅäÒô£¬ÒôÆµ¸´ÖÆ£¬ºóÆÚÂ¼Òô	ÒôÆµĞ§¹û ´¦Àí
+ADV	advance	ËÍÈë£¬ÌáÉı£¬Ç°ÖÃÁ¿	ÆäËû Í¨ÓÃÊõÓï
+ADV	adversum	¶Ô¿¹	ÆäËû Í¨ÓÃÊõÓï
+ADV	advancer	ÏàÎ»³¬Ç°²¹³¥Æ÷	ÒôÆµĞÅºÅ ²ÎÊı
+null	Adventure	¾ªÏÕĞ§¹û	ÆäËû Í¨ÓÃÊõÓï
+AE	audio erasing	ÒôÆµ£¨ÉùÒô£©²Á³ı	ÒôÆµĞ§¹û ´¦Àí
+AE	auxiliary equipment	¸¨ÖúÉè±¸	ÒôÆµÓ²¼ş Éè±¸
+null	Aerial	ÌìÏß	ÒôÆµÓ²¼ş Éè±¸
+AES	audio engineering society	ÃÀ¹úÉùÆµ¹¤³ÌĞ­»á	ÒôÆµÓ²¼ş Éè±¸
+AF	audio fidelity	ÒôÆµ±£Õæ¶È	ÆäËû Í¨ÓÃÊõÓï
+AF	audio frequency	ÒôÆµÆµÂÊ	ÒôÆµĞÅºÅ ²ÎÊı
+AFC	active field control	×Ô¶¯ÆµÂÊ¿ØÖÆ	ÒôÆµĞÅºÅ ²ÎÊı
+AFC	automatic frequency control	Éù³¡¿ØÖÆ	ÒôÆµĞÅºÅ ²ÎÊı
+null	Affricate	Èû²ÁÒô	ÒôÆµĞÅºÅ ²ÎÊı
+AFL	aside fade listen	Ë¥¼õºó£¨ÍÆ×Óºó£©¼àÌı	ÆäËû Í¨ÓÃÊõÓï
+null	A-fader	ÒôÆµË¥¼õ	ÒôÆµĞ§¹û ´¦Àí
+AFM	advance frequency modulation	¸ß¼¶µ÷Æµ	ÒôÆµĞ§¹û ´¦Àí
+AFS	acoustic feedback speaker	Éù·´À¡ÑïÉùÆ÷	ÒôÆµĞÅºÅ ²ÎÊı
+AFT	automatic fine tuning	×Ô¶¯Î¢µ÷	ÒôÆµÓ²¼ş Éè±¸
+AFTAAS	advanced fast time acoustic analysis system	¸ß¼¶¿ìËÙÒôÏì·ÖÎöÏµÍ³	ÒôÆµĞÅºÅ ²ÎÊı
+null	After	×ªÒÆ²¿·ÖÎÄ¼ş	ÒôÆµÓ²¼ş Éè±¸
+null	Afterglow	Óà»Ô£¬Ï¦ÕÕÊ±·ÖÒôÏìĞ§¹û	ÆäËû Í¨ÓÃÊõÓï
+null	Against	ÒÔÿÿÎª±³¾°	ÒôÆµÓ²¼ş Éè±¸
+AGC	automatic gain control	×Ô¶¯ÔöÒæ¿ØÖÆ	ÆäËû Í¨ÓÃÊõÓï
+AHD	audio high density	ÒôÆµ¸ßÃÜ¶È³ªÆ¬ÏµÍ³	ÒôÆµÓ²¼ş Éè±¸
+AI	advanced integrated	Ô¤»ãÁ÷	ÆäËû Í¨ÓÃÊõÓï
+AI	amplifier input	·Å´óÆ÷ÊäÈë	ÒôÆµÓ²¼ş Éè±¸
+AI	artificial intelligence	ÈË¹¤ÖÇÄÜ	ÒôÆµÓ²¼ş Éè±¸
+AI	azimuth indicator	·½Î»Ö¸Ê¾Æ÷	ÒôÆµÓ²¼ş Éè±¸
+null	A-IN	ÒôÆµÊäÈë	ÒôÆµÓ²¼ş Éè±¸
+A-INSEL	audio input selection	ÒôÆµÊäÈëÑ¡Ôñ	ÒôÆµÓ²¼ş Éè±¸
+null	Alarm	¾¯±¨Æ÷	ÒôÆµÓ²¼ş Éè±¸
+ALC	automatic level control	×Ô¶¯µçÆ½¿ØÖÆ	ÒôÆµĞÅºÅ ²ÎÊı
+ALC	automatic load control	×Ô¶¯¸ºÔØ¿ØÖÆ	ÒôÆµĞÅºÅ ²ÎÊı
+null	Alford loop	°®¸£ÌØ»·ĞÎÌìÏß	ÒôÆµÓ²¼ş Éè±¸
+null	Algorithm	ÑİÊ¾	ÆäËû Í¨ÓÃÊõÓï
+null	Aliasing	Á¿»¯ÔëÉù£¬ÆµÆ×»ìµş	ÒôÆµĞÅºÅ ²ÎÊı
+null	Aliasing distortion	ÕÛµşÊ§Õæ	ÒôÆµĞÅºÅ ²ÎÊı
+null	Align alignment	Ğ£Õı£¬²¹³¥£¬Î¢µ÷£¬Æ¥Åä	ÆäËû Í¨ÓÃÊõÓï
+null	Al-Si-Fe alloy head	Ìú¹èÂÁºÏ½ğ´ÅÍ·	ÒôÆµÓ²¼ş Éè±¸
+null	Allegretto	Ğ¡¿ì°å£¬ÉÔ¿ìµØ	ÆäËû Í¨ÓÃÊõÓï
+null	Allegro	¿ì°å£¬Ñ¸ËÙµØ	ÆäËû Í¨ÓÃÊõÓï
+null	Allocation	ÅäÖÃ£¬¶¨Î»	ÆäËû Í¨ÓÃÊõÓï
+null	All rating	È«£¨Òô£©Óò	ÒôÆµĞÅºÅ ²ÎÊı
+ALM	audio level meter	ÒôÆµµçÆ½±í	ÒôÆµÓ²¼ş Éè±¸
+ALT	alternating	Õğµ´£¬½»ÌæµÄ	ÆäËû Í¨ÓÃÊõÓï
+ALT	alternator	½»Á÷·¢µç»ú	ÒôÆµÓ²¼ş Éè±¸
+ALT	altertue	×ªÂ·	ÆäËû Í¨ÓÃÊõÓï
+ALT-CH	alternate channel	×ª»»Í¨µÀ£¬½»ÌæÉùµÀ	ÒôÆµÓ²¼ş Éè±¸
+null	Alter	×ª»»£¬½»Á÷µç£¬±ä»»Æ÷	ÆäËû Í¨ÓÃÊõÓï
+AM	amperemeter	°²Åà¼Æ£¬µçÁ÷±í	ÒôÆµÓ²¼ş Éè±¸
+AM	amplitude modulation	µ÷·ù£¨¹ã²¥£©	ÒôÆµÓ²¼ş Éè±¸
+AM	auxiliary memory	¸¨Öú´æ´¢Æ÷	ÒôÆµĞÅºÅ ²ÎÊı
+null	Ambience	ÁÙ³¡¸Ğ£¬»·ÈÆ¸Ğ	ÒôÆµÓ²¼ş Éè±¸
+ABTD	automatic bulk tape degausser	´Å´ø×Ô¶¯ÕûÌåÈ¥´ÅµçÂ·	ÒôÆµĞ§¹û ´¦Àí
+null	Ambient	»·¾³µÄ	ÒôÆµÓ²¼ş Éè±¸
+null	Ambiophonic system	»·ÈÆÉùÏµÍ³	ÆäËû Í¨ÓÃÊõÓï
+null	Ambiophony	ÏÖ³¡»ìÏì£¬»·¾³Á¢ÌåÉù	ÒôÆµÓ²¼ş Éè±¸
+AMLS	automatic music locate system	×Ô¶¯ÒôÀÖ¶¨Î»ÏµÍ³	ÒôÆµĞ§¹û ´¦Àí
+AMP	ampere	°²Åà	ÒôÆµÓ²¼ş Éè±¸
+AMP	amplifier	·Å´óÆ÷	ÆäËû Í¨ÓÃÊõÓï
+AMPL	amplification	·Å´ó	ÒôÆµÓ²¼ş Éè±¸
+AMP	amplitude	·ù¶È£¬¾àÀë	ÒôÆµĞ§¹û ´¦Àí
+null	Amorphous head	·Ç¾§Ì¬´ÅÍ·	ÒôÆµĞÅºÅ ²ÎÊı
+null	Abort	ÖÕÖ¹£¬Í£Ö¹£¨Â¼ÖÆ»ò²¥·Å£©	ÒôÆµÓ²¼ş Éè±¸
+A-B	TEST	AB±È½ÏÊÔÌı	ÆäËû Í¨ÓÃÊõÓï
+null	Absorber	¼õÕğÆ÷	ÒôÆµĞ§¹û ´¦Àí
+null	Absorption	ÉùÒô±»ÎïÌåÎüÊÕ	ÒôÆµÓ²¼ş Éè±¸
+ABX	acoustic bass extension	µÍÒôÀ©Õ¹	ÒôÆµĞ§¹û ´¦Àí
+AC	accumulator	³äµçµç³Ø	ÒôÆµĞ§¹û ´¦Àí
+AC	adjustment caliration	µ÷½Ú-Ğ£×¼	ÒôÆµÓ²¼ş Éè±¸
+AC	alternating current	½»Á÷µç£¬½»Á÷	ÆäËû Í¨ÓÃÊõÓï
+AC	audio coding	ÊıÂëÉù£¬ÒôÆµ±àÂë	ÒôÆµÓ²¼ş Éè±¸
+AC	audio center	ÒôÆµÖĞĞÄ	ÒôÆµĞÅºÅ ²ÎÊı
+AC	azimuth comprator	·½Î»±È½ÏÆ÷	ÒôÆµÓ²¼ş Éè±¸
+null	AC-3	¶Å±ÈÊıÂë»·ÈÆÉùÏµÍ³	ÒôÆµÓ²¼ş Éè±¸
+AC-3	RF	¶Å±ÈÊıÂë»·ÈÆÉùÊı¾İÁ÷£¨½Ó¿Ú£©	ÒôÆµÓ²¼ş Éè±¸
+ACC	Acceleration	¼ÓËÙ	ÆäËû Í¨ÓÃÊõÓï
+null	Accel	½¥¿ì£¬¼ÓËÙ	ÆäËû Í¨ÓÃÊõÓï
+null	Accent	ÖØÒô£¬Éùµ÷	ÆäËû Í¨ÓÃÊõÓï
+null	Accentuator	Ô¤¼ÓÖØµçÂ·	ÒôÆµÓ²¼ş Éè±¸
+null	Access	´æÈ¡£¬½øÈë£¬Ôö¼Ó£¬Í¨Â·	ÆäËû Í¨ÓÃÊõÓï
+null	Accessory	¸½¼ş£¨½Ó¿Ú£©£¬Åä¼ş	ÆäËû Í¨ÓÃÊõÓï
+null	Acryl	±û»ùõ£»ù	ÆäËû Í¨ÓÃÊõÓï
+null	Accompaniment	°é×à£¬ºÏ×à£¬°éËæ	ÆäËû Í¨ÓÃÊõÓï
+null	Accord	ºÍĞ³£¬µ÷ºÍ	ÆäËû Í¨ÓÃÊõÓï
+null	Accordion	ÊÖ·çÇÙ	ÆäËû Í¨ÓÃÊõÓï
+ACD	automatic call distributor	×Ô¶¯ºô½Ğ·ÖÅäÆ÷	ÆäËû Í¨ÓÃÊõÓï
+ACE	audio control erasing	ÒôÆµ¿ØÖÆÏû´Å	ÒôÆµĞ§¹û ´¦Àí
+null	A-Channel	A£¨×ó£©ÉùµÀ	ÒôÆµÓ²¼ş Éè±¸
+null	Acoumeter	²âÌı¼Æ	ÒôÆµÓ²¼ş Éè±¸
+null	Acoustical	ÉùµÄ£¬ÉùÒôµÄ	ÆäËû Í¨ÓÃÊõÓï
+null	Acoustic coloring	ÉùÈ¾É«	ÒôÆµĞ§¹û ´¦Àí
+null	Acoustic image	ÉùÏñ	ÒôÆµĞ§¹û ´¦Àí
+null	Across	½»²æ£¬²¢ĞĞ£¬¿ç½Ó	ÆäËû Í¨ÓÃÊõÓï
+null	Across frequency	½»²æÆµÂÊ£¬·ÖÆµÆµÂÊ	ÒôÆµĞÅºÅ ²ÎÊı
+ACST	access time	´æÈ¡Ê±¼ä	ÆäËû Í¨ÓÃÊõÓï
+null	Active	Ö÷¶¯µÄ£¬ÓĞÔ´µÄ£¬ÓĞĞ§µÄ£¬ÔËĞĞµÄ	ÆäËû Í¨ÓÃÊõÓï
+null	Active crossover	Ö÷¶¯·ÖÆµ£¬µç×Ó·ÖÆµ£¬ÓĞÔ´·ÖÆµ	ÒôÆµÓ²¼ş Éè±¸
+null	Active loudsperker	ÓĞÔ´ÒôÏä	ÒôÆµÓ²¼ş Éè±¸
+null	Armstrong MOD	°¢Ä·Ë¹ÌØÀÊµ÷ÖÆ	ÒôÆµĞÅºÅ ²ÎÊı
+ARP	azimuth reference pulse	·½Î»»ù×¼Âö³å	ÒôÆµĞÅºÅ ²ÎÊı
+null	Arpeggio	ÅÃÒô	ÆäËû Í¨ÓÃÊõÓï
+null	Articulation	ÉùÒôÇåÎú¶È£¬·¢Òô	ÆäËû Í¨ÓÃÊõÓï
+null	Artificial	·ÂÿÿµÄ£¬ÈË¹¤µÄ£¬ÊÖ¶¯£¨¿ØÖÆ£©	ÆäËû Í¨ÓÃÊõÓï
+AAD	active acoustic devide	ÓĞÔ´ÉùÑ§Èí¼ş	ÒôÆµÓ²¼ş Éè±¸
+ABC	auto base and chord	×Ô¶¯µÍÒôºÏÏÒ	ÒôÆµĞ§¹û ´¦Àí
+null	Architectural acoustics	½¨ÖşÉùÑ§	ÆäËû Í¨ÓÃÊõÓï
+null	Arm motor	³ª±Û³ª»ú	ÒôÆµÓ²¼ş Éè±¸
+null	Arpeggio single	ÅÃÒôºÍÏÒ£¬·Ö½âºÍÏÒ	ÆäËû Í¨ÓÃÊõÓï
+ARL	aerial	ÌìÏß	ÒôÆµÓ²¼ş Éè±¸
+ASC	automatic sensitivity control	×Ô¶¯ÁéÃô¶È¿ØÖÆ	ÒôÆµĞÅºÅ ²ÎÊı
+ASGN	Assign	·ÖÅä£¬Ö¸¶¨£¬Éè¶¨	ÆäËû Í¨ÓÃÊõÓï
+ASP	audio signal processing	ÒôÆµĞÅºÅ´¦Àí	ÒôÆµĞÅºÅ ²ÎÊı
+ASS	assembly	×é¼ş£¬×°Åä£¬×Ü³É	ÆäËû Í¨ÓÃÊõÓï
+ASSEM	assemble	»ã±à£¬¼ô¼­	ÆäËû Í¨ÓÃÊõÓï
+ASSEM	Assembly	×é¼ş£¬×°Åä£¬×Ü³É	ÒôÆµĞ§¹û ´¦Àí
+null	Assign	Ö¸¶¨£¬×ª·¢£¬·ÖÅä	ÆäËû Í¨ÓÃÊõÓï
+null	Assist	¸¨Öú£¨×°ÖÃ£©	ÆäËû Í¨ÓÃÊõÓï
+ASSY	accessory	×é¼ş£¬¸½¼ş	ÆäËû Í¨ÓÃÊõÓï
+AST	active servo techonology	ÓĞÔ´ËÅ·ş¼¼Êõ	ÒôÆµĞ§¹û ´¦Àí
+A	Tempo	»Øµ½Ô­ËÙ	ÒôÆµĞ§¹û ´¦Àí
+null	Astigmatism methord	ÏóÉ¢·¨	ÆäËû Í¨ÓÃÊõÓï
+B	band	Æµ´ø	ÆäËû Í¨ÓÃÊõÓï
+B	Bit	±ÈÌØ£¬´æ´¢µ¥Ôª	ÒôÆµĞÅºÅ ²ÎÊı
+B	Button	°´Å¥	ÆäËû Í¨ÓÃÊõÓï
+null	Babble	¶àÂ·¸ĞÓ¦µÄ¸´ÔÓÊ§Õæ	ÆäËû Í¨ÓÃÊõÓï
+null	Back	·µ»Ø	ÒôÆµĞ§¹û ´¦Àí
+null	Back clamping	·´ÏòÇ¯Î»	ÆäËû Í¨ÓÃÊõÓï
+null	Back drop	½»Á÷ºßÉù£¬¸ÉÈÅÉù	ÒôÆµĞ§¹û ´¦Àí
+null	Background noise	±³¾°ÔëÉù£¬±¾µ×ÔëÉù	ÒôÆµĞ§¹û ´¦Àí
+null	Backing copy	¸±°æ	ÆäËû Í¨ÓÃÊõÓï
+null	Backoff	µ¹¿Û£¬²¹³¥	ÆäËû Í¨ÓÃÊõÓï
+null	Back tracking	²¹Â¼	ÆäËû Í¨ÓÃÊõÓï
+null	Back up	´Å´ø±¸·İ£¬Ö§³Ö£¬Ô¤±¸	ÆäËû Í¨ÓÃÊõÓï
+null	Backward	¿ìµ¹ËÑË÷	ÆäËû Í¨ÓÃÊõÓï
+null	Baffle box	ÒôÏä	ÒôÆµÓ²¼ş Éè±¸
+BAL	balance	Æ½ºâ£¬Á¢ÌåÉù×óÓÒÉùµÀÒôÁ¿±ÈÀı£¬Æ½ºâÁ¬½Ó	ÒôÆµĞÅºÅ ²ÎÊı
+null	Balanced	ÒÑÆ½ºâµÄ	ÒôÆµĞÅºÅ ²ÎÊı
+null	Balancing	µ÷Áã×°ÖÃ£¬²¹³¥£¬ÖĞºÍ	ÆäËû Í¨ÓÃÊõÓï
+null	Balun	Æ½ºâ=²»Æ½ºâ×ª»»Æ÷	ÒôÆµÓ²¼ş Éè±¸
+null	Banana jack	Ïã½¶²åÍ·	ÒôÆµÓ²¼ş Éè±¸
+null	Banana bin	Ïã½¶²å×ù	ÒôÆµÓ²¼ş Éè±¸
+null	Banana pin	Ïã½¶²åÍ·	ÒôÆµÓ²¼ş Éè±¸
+null	Banana plug	Ïã½¶²åÍ·	ÒôÆµĞÅºÅ ²ÎÊı
+null	Band	Æµ¶Î£¬	ÒôÆµĞ§¹û ´¦Àí
+null	Band pass	´øÍ¨ÂË²¨Æ÷	ÒôÆµĞÅºÅ ²ÎÊı
+null	Bandwidth	Æµ´ø¿í£¬Îó²î£¬·¶Î§	ÆäËû Í¨ÓÃÊõÓï
+null	Band	´æ´¢µ¥Ôª	ÒôÆµĞÅºÅ ²ÎÊı
+null	Bar	Ğ¡½Ú£¬À­¸Ë	ÒôÆµĞÅºÅ ²ÎÊı
+BAR	barye	Î¢°Í	ÒôÆµĞÅºÅ ²ÎÊı
+null	Bargraph	ÏßÌõ	ÆäËû Í¨ÓÃÊõÓï
+null	Barrier	¾øÔµ£¨Ì×£©	ÆäËû Í¨ÓÃÊõÓï
+null	Base	µÍÒô	ÒôÆµĞÅºÅ ²ÎÊı
+null	Bass	µÍÒô£¬±¶Ë¾£¨µÍÒôÌáÇÙ£©	ÒôÆµĞÅºÅ ²ÎÊı
+null	Bass tube	µÍÒôºÅ£¬´óºÅ	ÒôÆµĞÅºÅ ²ÎÊı
+null	Bassy	µÍÒô¼ÓÖØ	ÒôÆµĞÅºÅ ²ÎÊı
+BATT	battery	µç³Ø	ÒôÆµÓ²¼ş Éè±¸
+null	Baud	²¨ÌØ£¨ĞÅÏ¢´«ÊäËÙÂÊµÄµ¥Î»£©	ÒôÆµĞ§¹û ´¦Àí
+null	Bazooka	µ¼ÏßÆ½ºâ×ª½ÓÆ÷	ÒôÆµĞÅºÅ ²ÎÊı
+BB	base band	»ù´ø	ÒôÆµĞ§¹û ´¦Àí
+BBD	Bucket brigade device	ìæÁ´Æ÷¼ş£¨Ğ§¹ûÆ÷£©	ÒôÆµĞÅºÅ ²ÎÊı
+B	BAT Battery	µç³Ø	null
+null	BBE	ÌØÖ¸BBE¹«Ë¾Éè¼ÆµÄ¸ÄÉÆ½Ï¸ß´ÎĞ³²¨Ğ£Õı³Ì¶ÈµÄÏµÍ³	null
+BC	balanced current	Æ½ºâµçÁ÷	null
+BC	Broadcast control	¹ã²¥¿ØÖÆ	null
+BCH	band chorus	·ÖÆµ¶ÎºÏ³ª	null
+BCST	broadcast	£¨ÎŞÏßµç£©¹ã²¥	null
+BD	board	ÒÇ±í°å	ÒôÆµÓ²¼ş Éè±¸
+null	Beat	ÅÄ£¬Âö¶¯ĞÅºÅ	null
+null	Beat cancel switch	²îÅÄ¸ÉÈÅÏû³ı¿ª¹Ø	null
+null	Bel	±´¶û	null
+null	Below	ÏÂÁĞ£¬ÏòÏÂ	null
+null	Bench	¹¤×÷Ì¨	null
+null	Bend	ÍäÇú£¬»¬Òô	ÒôÆµĞ§¹û ´¦Àí
+null	Bender	»¬ÒôÆ÷	null
+BER	bit error rate	ĞÅÏ¢²î´íÂÊ	null
+BF	back feed	·´À¡	null
+BF	Backfeed flanger	·´À¡Ïâ±ß	null
+BF	Band filter	´øÍ¨ÂË²¨Æ÷	null
+BGM	background music	±³¾°ÒôÀÖ	null
+null	Bias	Æ«ÖÃ£¬Æ«´Å£¬Æ«Ñ¹£¬¼È¶¨³ÌĞò	null
+null	Bidirectional	Ë«ÏòĞÔµÄ£¬8×ÖĞÍÖ¸ÏòµÄ	null
+null	Bifess Bi-feedback sound system	Ë«·´À¡ÏµÍ³	null
+null	Big bottom	µÍÒôÀ©Õ¹£¬¼ÓÖØµÍÒô	null
+null	Bin	½ÓÊÕÆ÷£¬²ÖÊÒ	null
+null	BNG	BNCÁ¬½ÓÆ÷£¨²åÍ·¡¢²å×ù£©£¬¿¨¿ÚÍ¬ÖáµçÀÂÁ¬½ÓÆ÷	ÒôÆµÓ²¼ş Éè±¸
+null	Binaural effect	Ë«¶úĞ§Ó¦£¬Á¢ÌåÉù	null
+null	Binaural synthesis	Ë«¶úºÏ³É·¨	null
+null	Bin go	ÒâÍâÏÖÏó	null
+null	Bit binary digit	×Ö½Ú£¬¶ş½øÖÆÊı×Ö£¬Î»	null
+null	Bitstream	ÊıÂëÁ÷£¬±ÈÌØÁ÷	null
+null	Bit yield	´æ´¢µ¥Ôª	null
+null	Bi-AMP	Ë«£¨Í¨µÀ£©¹¦·ÅÏµÍ³	null
+null	Bi-wire	Ë«Ïß£¨´«Êä¡¢·ÖÒô£©	null
+null	Bi-Wring	Ë«Ïß	null
+BK	break	Í£¶Ù£¬¼ä¶Ï	null
+BKR	breaker	¶ÏµçÆ÷	null
+null	Blamp	Á½Â·µç×Ó·ÖÒô	null
+null	Blanking	¹Ø±Õ£¬ÏûÒş£¬¶ÏÂ·	null
+null	Blaster	±¬ÁÑĞ§¹ûÆ÷	null
+null	Blend	ÈÚºÏ£¨¶È£©¡¢µ÷ºÍ¡¢»ìºÏ	null
+null	Block	·Ö³ÌĞò£¬Áª¶¯£¬ÖĞ¶Ï	null
+null	Block Repeat	·Ö¶ÎÖØ¸´	null
+null	Block up	×èÈû	null
+null	Bloop	£¨´Å´øµÄ£©½ÓÍ·ÔëÉù£¬ÏûÒôÌùÆ¬	null
+BNC	bayonet connector	¿¨¿ÚµçÀÂÁ¬½ÓÆ÷	null
+null	Body mike	Ğ¡ĞÍ»°Í²	ÒôÆµÓ²¼ş Éè±¸
+null	Bond	½ÓÍ·£¬Á¬½ÓÆ÷	ÒôÆµÓ²¼ş Éè±¸
+null	Bongo	°î¸ê¹Ä	null
+null	Boom	»ìÏì£¬ºäÃùÉù	null
+null	Boomy	ÎËÎËÉù£¨Ö¸µÍÒô¹ıÇ¿£©	null
+null	Boost	ÌáÉı£¨Ò»°ãÖ¸µÍÒô£©£¬·Å´ó£¬ÔöÇ¿	null
+null	Booth	¿ØÖÆÊÒ£¬Â¼ÒôÅï	null
+null	Bootstrap	¸¨Öú³ÌĞò£¬×Ô¾ÙµçÂ·	null
+null	Both sides play disc stereo system	Ë«ÃæÑİ×àÊ½³ªÆ¬Á¢ÌåÉùÏµÍ³	null
+null	Bottoming	µ×²¿ÇĞ³ı£¬Ä©¶ËÇĞ³ı	null
+null	Bounce	ºÏ²¢	null
+null	Bourclon	µ¥µ÷µÍÒô	null
+null	Bowl	Íë×´ÌåÓı³¡Ğ§¹û	null
+BP	bridge bypass	µçÇÅÅÔÂ·	null
+BY	bypass	ÅÔÍ¨	null
+BPC	basic pulse generator	»ù×¼Âö³å·¢ÉúÆ÷	null
+BPF	band pass filter	´øÍ¨ÂË²¨Æ÷	null
+BPS	band pitch shift	·ÖÆµ¶Î±äµ÷½ÚÆ÷	null
+BR	bregister	±äÖ·¼Ä´æÆ÷	null
+BR	Bridge	µçÇÅ	null
+null	Break	ÖĞÖ¹£¨³ÌĞò£©£¬¼õÈõ	null
+null	Breathing	´­Ï¢Ğ§Ó¦	null
+null	B.Reso base resolve	»ù±¾½âÎö¶È	null
+null	Bridge	ÇÅ½Ó£¬µçÇÅ£¬ÇÅ£¬£¨ÀÖÇúµÄ£©±ä×à¹ı¶É	null
+null	Bright	Ã÷ÁÁ£¨¸Ğ£©	null
+null	Brightness	Ã÷ÁÁ¶È£¬Ö¸ÖĞ¸ßÒôÌıÒô¸Ğ¾õ	null
+null	Brilliance	ÏìÁÁ	null
+BRKRS	breakers	¶ÏÂ·Æ÷	null
+null	Broadcast	¹ã²¥	null
+BTB	bass tuba	µÍÒô´óÀ®°È	null
+BTL	balanced transformer-less	ÇÅÊ½ÍÆÍì·Å´óµçÂ·	null
+BTM	bottom	×îĞ¡£¬µÍÒô	null
+BU	backup nuit	±¸ÓÃÆ÷¼ş	null
+null	Bumper	¼õÕğÆ÷	null
+null	Bus	Ä¸Ïß£¬×ÜÏß	null
+null	Busbar	Ä¸Ïß	null
+null	Buss	Ä¸Ïß	null
+null	Busy	Õ¼Ïß	null
+BUT	button	°´Å¥£¬ĞıÅ¥	null
+BW	band width	Æµ´ø¿í¶È£¬´ø¶È	null
+BYP	bypass	ÅÔÂ·	null
+null	By path	ÅÔÂ·	null
+BZ	buzzer	·äÒôÆ÷	null
+C	cathode	Òõ¼«£¬¸º¼«	null
+C	Cell	µç³Ø	null
+C	Center	ÖĞĞÄ	null
+C	Clear	Çå³ı	null
+C	Cold	Àä£¨¶Ë£©	null
+CA	cable	µçÀÂ	null
+null	Cable	µçÀÂ	null
+null	Cabinet	Ğ¡²Ù×İÌ¨	null
+CAC	coherent acoustic coding	Ïà¸ÉÉùÑ§±àÂë	null
+null	Cache	»º³å´æ´¢Æ÷	null
+null	Cal calando	¼õĞ¡ÒôÁ¿	null
+CAL	Calendar	·ÖÀà	null
+CAL	Caliber	¿Ú¾¶	null
+CAL	Calibrate	±ê×¼»¯	null
+CAL	Continuity accept limit	Á¬ĞøĞÔ½ÓÊÜ¼«ÏŞ	null
+null	Calibrate	Ğ£×¼£¬¶¨±ê	null
+null	Call	È¡»Ø£¬¸´³ö£¬ºô³ö	null
+null	Can	¼àÌı¶ú»ú£¬´øºĞ	null
+CANCL	cancel	É¾³ı	null
+CANCL	Cancelling	Ïû³ı	null
+null	Cancel	È¡Ïû	null
+null	Cannon	¿¨Ù¯½Ó¿Ú	null
+null	Canon	¹æÔò	null
+null	Cap	µçÈİ	null
+null	Capacitance Mic	µçÈİ»°Í²	null
+null	Capacity	¹¦ÂÊ£¬µçÈİÁ¿	null
+CAR	carrier	ÔØ²¨£¬Ö§×ù£¬¼¦ĞÄ¼ĞÍ·	null
+null	Card	³ÌĞòµ¥£¬²å¼ş°å	null
+null	Cardioid	ĞÄĞÍµÄ	null
+CATV	cable television	ÓĞÏßµçÊÓ	null
+null	Crispness	´àÉù	null
+null	Category	ÖÖÀà£¬ÀàĞÍ	null
+null	Cartridge	Èí¼ş¿¨£¬Ê°ÒôÍ·	null
+null	Carrkioid	ĞÄĞÍ»°Í²	null
+null	Carrier	ÔØ²¨Æ÷	null
+null	Cart	×ªÔË	null
+null	Cartridge	ºĞÊ½´æ´¢Æ÷£¬ºĞÊ½´Å´ø	null
+null	Cascade	´®Áª	null
+null	Cassette	¿¨Ê½µÄ£¬ºĞÊ½µÄ	null
+CAV	constant angular velocity	ºã½ÇËÙ¶È	null
+null	Caution	±¨¾¯	null
+CBR	circuit board rack	µçÂ·°å¼Ü	null
+CC	contour correction	ÂÖÀªĞ£Õı	null
+CCD	charge coupled device	µçºÉñîºÏÆ÷¼ş	null
+CD	compact disc	¼¤¹â³ªÆ¬	null
+CDA	current dumping amplifier	µçÁ÷·Å´óÆ÷	null
+CD-E	compact disc erasable	¿ÉÄ¨Ê½¼¤¹â³ªÆ¬	null
+CDG	compact-disc plus graphic	´øÓĞ¾²Ö¹Í¼ÏñµÄCD³ªÅÌ	null
+CD	constant directional horn	ºã¶¨Ö¸ÏòºÅ½Ç	null
+CDV	compact disc with video	ÃÜÎÆÉùÏñ³ªÆ¬	null
+CE	ceramic	ÌÕ´É	null
+null	Clock enable	Ê±ÖÓÆô¶¯	null
+null	Cell	µç³Ø£¬Ôª¼ş£¬µ¥Ôª	null
+null	Cellar club	µØÏÂ¾ãÀÖ²¿Ğ§¹û	null
+null	Cello	´óÌáÇÙ	null
+CEMA	consumer electronics manufacturer_sassociation	£¨ÃÀ¹ú£©Ïû·Ñµç×Ó²úÆ·ÖÆÔìÉÌĞ­»á	null
+CENELEC	connector	Å·ÖŞ±ê×¼21½ÅAVÁ¬½ÓÆ÷	null
+null	Cent	Òô·Ö	null
+null	Central earth	ÖĞĞÄ½ÓµØ	null
+CES	consumer electronic show	£¨ÃÀ¹ú£©Ïû·Ñµç×Ó²úÆ·Õ¹ÀÀ»á	null
+CF	center frequency	ÖĞĞÄÆµÂÊ	null
+null	Cross fade	ÈíÇĞ»»	null
+CH	channel	ÉùµÀ£¬Í¨µÀ	null
+null	Chain	´«ÊäÁ´£¬ĞÅµÀ	null
+null	Chain play	Á¬ĞøÑİ×à	null
+null	Chamber	ÃÜÒôÒôÏìĞ§¹û£¬ÏûÉùÊÒ	null
+CHAN	channel	Í¨µÀ	null
+null	Change	½»»»	null
+null	Chapter	ÇúÄ¿	null
+null	Chaper skip	Ìø½Ú	null
+CHAE	character	×Ö·û£¬·ûºÅ	null
+null	Characteristic curve	ÌØĞÔÇúÏß	null
+null	Charge	³äµç	null
+null	Charger	³äµçÆ÷	null
+null	Chase	¸ú×Ù	null
+null	Check	Ğ£Ñé	null
+CHC	charge	³äµç	null
+CH	- off	Í¨µÀÇĞ¶Ï	null
+null	Choke	ºÏ³ª	null
+null	Choose	Ñ¡Ôñ	null
+null	Chromatic	É«²Ê£¬°ëÒô	null
+null	Church	½ÌÌÃÒôÏìĞ§¹û	null
+CI	cut in	ÇĞÈë	null
+CIC	cross interleave code	½»²æ¸ôĞĞ±àÂë	null
+CIRC	circulate	Ñ­»·	null
+null	Circuit	µçÂ·	null
+CL	cancel	È¡Ïû	null
+null	Classic	¹ÅµäµÄ	null
+null	Clean	¾»»¯	null
+CLR	clear	¹éÁã	null
+null	Click	àÖßÕÉù	null
+null	Clip	Ï÷²¨£¬ÏŞ·ù£¬½ÓÏßÖù	null
+CLK	clock	Ê±ÖÓĞÅºÅ	null
+null	Close	¹Ø±Õ£¬Í£Ö¹	null
+null	CLS	¿ØÖÆÊÒ¼àÌı	null
+null	Cluster	ÒôÏäÕóĞ§¹û	null
+CLV	ceiling limit value	ÉÏÏŞÖµ	null
+CMP	compact	Ñ¹Ëõ	null
+CMPT	compatibility	¼æÈİĞÔ	null
+CMRR	common mode rejection ratio	¹²Ä£ÒÖÖÆ±È	null
+CNT	count	¼ÇÊı£¬¼ÇÊıÆ÷	null
+CNTRL	central	ÖĞĞÄ£¬ÖĞÑë	null
+CO	carry out	¶¨Î»Êä³ö	null
+null	Coarse	´Öµ÷	null
+null	Coax	Í¬ÖáµçÀÂ	null
+null	Coaxial	ÊıÂëÍ¬Öá½Ó¿Ú	null
+null	Code	Âë£¬±àÂë	null
+null	Coefficient	ÏµÊı	null
+null	Coincident	¶àĞÅºÅÍ¬²½	null
+null	Cold	ÀäµÄ£¬µ¥±¡µÄ	null
+null	Color	È¾É«Ğ§¹û	null
+COM	comb	Êá×´£¨ÂË²¨£©	null
+COMB	combination	×éºÏÒôÉ«	null
+COMBI	combination	×éºÏ£¬»ìºÏ	null
+COMBO	combination	ÅäºÏ£¬×éºÏ	null
+null	Combining	¼¯ºÏ£¬½áºÏ	null
+COMM	communication	»»ÏòµÄ£¬ÇĞ»»×°ÖÃ	null
+null	Command	Ö¸Áî£¬²Ù×÷£¬ĞÅºÅ	null
+null	COMMON	¹«¹²µÄ£¬¹«¹²µØ¶Ë	null
+null	Communieation speed	Í¨Ñ¶ËÙ¶ÈÑ¡Ôñ	null
+COMP	comparator	±È½ÏÆ÷	null
+COMP	compensate	²¹³¥	null
+null	Compact	Ñ¹Ëõ	null
+null	Compander	Ñ¹ËõÀ©Õ¹Æ÷	null
+null	Compare	±ÈÄâ	null
+null	Compatibility	¼æÈİ	null
+null	Compensate	²¹³¥	null
+null	Complex	È«Ì×Éè±¸	null
+null	Copmoser	´´ÒâÕß£¬×÷ÇúÕß	null
+null	Compressor	Ñ¹ËõÆ÷	null
+null	COMP-EXP	Ñ¹À©Æ÷	null
+null	Compromise	£¨ÆµÂÊ£©Æ½ºâ	null
+null	Computer	¼ÆËã»ú£¬µçÄÔ	null
+CON	concentric cable	Í¬ÖáµçÀÂ	null
+CON	console	²Ù×İÌ¨	null
+CON	controller	¿ØÖÆÆ÷	null
+null	Concentric	Í¬ÖáµÄ£¬Í¬ĞÄµÄ	null
+null	Concert	ÒôÀÖÌüĞ§¹û	null
+null	Condenser Microphone	µçÈİ»°Í²	null
+null	Cone type	×¶ĞÎ£¨ÑïÉùÆ÷£©	null
+null	CONFIG	²¼¾Ö£¬ÏßÂ·½Ó·¨	null
+null	Connect	Á¬½Ó£¬ÁªÂç	null
+CORR	correct	Ğ£Õı£¬²¹³¥£¬µÖÏû	null
+null	Configuration	ÏßÂ·²¼¾Ö	null
+null	Confirmation	È·ÈÏ	null
+null	Consent	ÍòÄÜ²å×ù	null
+null	Console	µ÷ÒôÌ¨	null
+null	Consonant	¸¨Òô	null
+null	Constant	³£Êı	null
+CONT	continuous	Á¬ĞøµÄ£¨ÒôÉ«ÌØĞÔ£©	null
+CONT	control	¿ØÖÆ£¬²Ù×İ	null
+null	Contact	½Ó´¥Æ÷	null
+null	Content	ÄÚÈİ	null
+null	Continue	Á¬Ğø£¬¼ÌĞø	null
+null	Continue button	Á½Â¼Òô¿¨×ùÁ¬Ğø·ÅÒô¼ü	null
+null	Contour	ÍâĞÎ£¬ÂÖÀª£¬±£³Ö	null
+null	Contra	´Î°Ë¶È	null
+null	Contrast	¶Ô±È¶È	null
+null	Contribution	·ÖÅä	null
+null	Controlled	¿É¿ØµÄ	null
+null	Controller	¿ØÖÆÆ÷	null
+CONV	conventional	³£¹æµÄ	null
+CONV	convert	±ä»»	null
+CONV	convertible	¿É×ª»»µÄ	null
+null	Copy	¸´ÖÆ	null
+null	Correlation meter	Ïà¹Ø±í	null
+null	Coupler	ñîºÏ	null
+null	Cover	²¹³¥	null
+null	Coverage	ÓĞĞ§·¶Î§	null
+CP	clock pulse	Ê±ÖÓÂö³å	null
+CP	control program	¿ØÖÆ³ÌĞò	null
+null	CPU	ÖĞÑë´¦ÀíÆ÷	null
+CR	card reader	¿¨Æ¬ÔÄ¶Á»ú	null
+CRC	cyclic redundancy check	Ñ­»·ÈßÓàĞ£Ñé	null
+null	Create	½¨Á¢£¬´´Ôì	null
+null	Crescendo	½¥Ç¿»ò½¥Èõ	null
+null	Crispness	Çå´à¸Ğ	null
+CRM	control room	¿ØÖÆÊÒ	null
+CROM	control read only memory	¿ØÖÆÖ»¶Á´æ´¢Æ÷	null
+null	Crossfader	½»²æ½¥±äÆ÷	null
+null	Cross-MOD	½»²æµ÷ÖÆ	null
+null	Crossover	·ÖÆµÆ÷£¬»»Ïò£¬ÇĞ¶Ï	null
+null	Cross talk	ÉùµÀ´®ÈÅ£¬´®Òô	null
+null	Crunch	Ä¦²ÁÒô	null
+CSS	content scrambling system	ÄÚÈİ¼ÓÃÜÏµÍ³	null
+CST	case style tape	ºĞÊ½´Å´ø	null
+CT	current	µçÁ÷	null
+CTM	close talking microphone	½ü½²»°Í²	null
+CU	counting unit	¼ÆÊıµ¥Ôª	null
+null	Cue	ÌáÊ¾£¬Ñ¡Ìı	null
+null	Cue clock	¹ÊÕÏ¼ÆÊ±ÖÓ	null
+null	Cueing	ÌáÊ¾£¬Ö¸³ö	null
+null	Cursor	Ö¸Ê¾Æ÷£¬¹â±ê	null
+null	Curve	£¨ÌØĞÔ£©ÇúÏß	null
+null	Custom	³£¹æ	null
+null	CUT	ÇĞÈ¥£¬Ó²ÇĞ»»	null
+D	double	Ë«ÖØµÄ£¬¶ÔÅ¼µÄ	null
+D	drum	¹Ä£¬´Å¹Ä	null
+DA	delayed action	ÑÓ³Ù×÷ÓÃ	null
+DAB	digital audio broadcasting	Êı×ÖÒôÆµ¹ã²¥	null
+null	Damp	×èÄá	null
+DASH	digital audio stationar head	Êı×Ö¹Ì¶¨´ÅÍ·	null
+null	Dashpot	»º³åÆ÷£¬¼õÕğÆ÷	null
+DAT	digital audio tape	Êı×ÖÒôÆµ´Å´ø£¬Êı×ÖÂ¼Òô»ú	null
+null	DATA	Êı¾İ	null
+null	DATAtron	Êı¾İ´¦Àí»ú	null
+null	DATE	ÈÕÆÚ	null
+DB	distribution	·ÖÏßºĞ	null
+DBA	decibel asolute	¾ø¶Ô·Ö±´	null
+DBA	decibel adjusted	µ÷Õû·Ö±´	null
+DBB	dynamic bass boost	¶¯Ì¬µÍÒôÌáÉı	null
+DBK	decibels referred to one kilowatt	Ç§Íß·Ö±´	null
+null	DBm decibel above one milliwatt in 600 ohms	ºÁÍß·Ö±´	null
+DBS	direct broadcast satellite	Ö±²¥ÎÀĞÇ	null
+null	DBX	Ñ¹ËõÀ©Õ¹Ê½½µÔëÏµÍ³	null
+DC	distance controlled	Ò£¿ØÆ÷	null
+DCA	digital command assembly	Êı×ÖÖ¸Áî×°ÖÃ	null
+DCE	data circuit terminating equipment	Êı¾İÍ¨Ñ¶ÏßÂ·ÖÕ¶ËÉè±¸	null
+DCF	digital comb filter	Êı×ÖÊá×´ÂË²¨Æ÷	null
+DCH	decade chorus	Ê®Éù²¿ºÏ³ª	null
+DCP	date central processor	Êı¾İÖĞĞÄ´¦ÀíÆ÷	null
+DD	direct drive	Ö±½ÓÇı¶¯	null
+DD	dolby digital	Êı×Ö¶Å±È	null
+DDC	direct digital control	Ö±½ÓÊı×Ö¿ØÖÆ	null
+DDS	digital dynamic sound	Êı×Ö¶¯Ì¬Éù	null
+DDT	data definition table	Êı¾İ¶¨Òå±í	null
+null	Dead	¾ßÓĞÇ¿ÎüÉùÌØĞÔµÄ·¿¼äµÄ¾²¼Å	null
+DEC	decay	Ë¥¼õ£¬½¥Èõ£¬ÓàÒôĞ§¹û	null
+null	Decibel	·Ö±´	null
+null	Deck	¿¨×ù£¬Â¼Òô×ù£¬´øÖ§¼ÓµÄ£¬×ß´ø»ú¹¹	null
+null	Deemphasis	ÊÍ·Å	null
+null	Deep reverb	×İÉî»ìÏì	null
+null	De-esser	È¥ßĞÉùÆ÷	null
+DEF	defeat	ÏûÒş£¬¾²Ôë	null
+null	Delete	É¾³ı	null
+null	Delivery end	ÊäÈë¶Ë	null
+DEMO	demodulator	½âµ÷Æ÷	null
+null	Demo	×Ô¶¯Ñİ×à	null
+null	Demoder	½âÂëÆ÷	null
+null	Density	ÃÜ¶È£¬ÉùÒôÃÜ¶ÈĞ§¹û	null
+null	Detune	Òô¸ßÎ¢µ÷£¬È¥Ğ³	null
+null	DepFin	×İÉîÎ¢µ÷	null
+null	Depth	Éî¶È	null
+null	Denoiser	½µÔëÆ÷	null
+null	Design	Éè¼Æ	null
+null	Destroyer	ÒÖÖÆÆ÷	null
+DET	detector	¼ì²¨Æ÷	null
+null	Deutlichkeit	ÇåÎú¶È	null
+DEV	device	×°ÖÃ£¬ÒÇÆ÷	null
+DEX	dynamic exciter	¶¯Ì¬¼¤ÀøÆ÷	null
+DF	damping factor	¶¯Ì¬ÂË²¨Æ÷	null
+DFL	dynamic filter	¶¯Ì¬ÂË²¨	null
+DFS	digital frequency synthesizer	Êı×ÖÆµÂÊºÏ³ÉÆ÷	null
+DI	data input	Êı¾İÊäÈë	null
+null	Diagram	Í¼ĞÎ£¬Ô­ÀíÍ¼	null
+null	Dial	µ÷½Ú¶ÈÅÌ	null
+null	Difference	²»Í¬£¬²î±ğ	null
+DIFF	differential	²î¶¯	null
+null	Diffraction	ÑÜÉä£¬ÈÆÉä	null
+null	Diffuse	´«²¥	null
+null	Diffusion	À©É¢	null
+DIG	digit	Êı×ÖÊ½	null
+null	Digital	Êı×ÖµÄ£¬Êı×ÖÊ½£¬¼ÆÊıµÄ	null
+null	Digitalyier	Êı×Ö»¯×°ÖÃ	null
+DIM	digital input module	Êı×ÖÊäÈëÄ£¿é	null
+DIM	diminished	Ë¥¼õ£¬¼õ°ëÒô	null
+null	Dimension	·¶Î§£¬ÃÜ¶È£¬³ß´ç£¬£¨¿Õ¼ä£©Î¬£¬ÉùÏñ¿í¶È	null
+null	Din	ÎåĞ¾²å¿Ú£¨µÂ¹ú¹¤Òµ±ê×¼£©	null
+DIN	digital input	Êı×ÖÊäÈë	null
+DIR	direct	Ö±½ÓµÄ£¬£¨µ÷ÒôÌ¨£©Ö±½ÓÊä³ö£¬¶¨ÏòµÄ	null
+null	Direct box	Ö¸ÁîºĞ£¬¿ØÖÆºĞ	null
+null	Direct sound	Ö±´ïÉù	null
+null	Directory	Ä¿Â¼	null
+null	Direction	ÅäÖÃ·½Ê½	null
+null	Directional	·½Ïò£¬Ö¸ÏòµÄ	null
+null	Directivity	·½ÏòĞÔ	null
+DIS	display	ÏÔÊ¾Æ÷	null
+DISC	disconnect	ÇĞ¶Ï£¬¿ªÂ·	null
+DISC	discriminator	¼øÏàÆ÷	null
+null	Disc	³ªÅÌ£¬³ªÆ¬£¬µú	null
+null	Disc holder	³ªÆ¬³éÌë	null
+null	Disc recorder	ÅÌÆ¬Ê½Â¼Òô»ú	null
+null	Dischage	ÊÍ·Å£¬½â³ı	null
+null	Disco	µÏË¹¿Æ£¬µÏË¹¿ÆÒôÀÖĞ§¹û	null
+null	Discord	²»Ğ³ºÍÏÒ	null
+null	Disk	³ªÅÌ£¬µú	null
+DISP	display	ÏÔÊ¾Æ÷£¬ÏÔÊ¾ÆÁ	null
+null	Dispersion	ÆµÉ¢ÌØĞÔ£¬ÉùÒô·Ö²¼	null
+null	Displacement	Æ«×ª£¬´ú»»	null
+null	Distortion	Ê§Õæ£¬»û±ä	null
+DIST	distance	¾àÀë£¬¼ä¾à	null
+DIST	district	Çø¼ä	null
+null	Distributer	·ÖÅäÆ÷£¬µ¼Ïò×°ÖÃ	null
+DITEC	digital television camera	Êı×ÖµçÊÓÉãÏñ»ú	null
+null	Dim	±äÈõ£¬±ä°µ£¬Ë¥¼õ	null
+DIV	divergence	·¢É¢	null
+DIV	division	·Ö¶Î	null
+DIV	divisor	·ÖÅäÆ÷	null
+null	Diversity	·Ö¼¯£¨½ÓÊÕ£©	null
+null	Divider	·ÖÅäÆ÷	null
+null	Divx	ÃÀ¹úÊı×ÖÊÓÆµ¿ìµİ¹«Ë¾¿ª·¢µÄÒ»ÖÖÃ¿´Î¹Û¿´¸¶·ÑµÄDVD	null
+DJ	Disc Jocker	³ªÆ¬ÆïÊ¿	null
+DJ	dust jacket	·À³¾ÕÖ	null
+DJ	delay	ÑÓ³Ù	null
+DLD	dynamic linear drive	¶¯Ì¬ÏßĞÔÇı¶¯	null
+DLLD	direct linear loop detector	Ö±½ÓÏßĞÔ»·Â·¼ì²¨Æ÷	null
+DME	digital multiple effector	Êı×Ö×ÛºÏĞ§¹ûÆ÷	null
+DMS	date multiplexing system	Êı¾İ¶àÂ·´«ÊäÏµÍ³	null
+DMS	digital multiplexing synchronizer	Êı×Ö¶àÂ·´«ÊäÍ¬²½Æ÷	null
+DMX	data multiplex	Êı¾İ¶àÂ·£¨´«Êä£©	null
+DNL	dynamic noise limiter	¶¯Ì¬ÔëÉùÒÖÖÆÆ÷	null
+DNR	dynamic noise reduction	¶¯Ì¬½µÔëµçÂ·	null
+DO	dolly out	ºóÒÆ	null
+DO	dropout	ĞÅºÅÊ§Âä	null
+DOB	dolby	¶Å±È	null
+DOL	dynamic optimum loudness	¶¯Ì¬×î¼ÑÏì¶È	null
+null	Dolby	¶Å±È£¬¶Å±È¹¦ÄÜ	null
+null	Dolby Hx Pro dolby Hx pro headroom extension system	¶Å±ÈHx Pro¶¯Ì¬ÓàÁ¿À©Õ¹ÏµÍ³	null
+null	Dolby NR	¶Å±È½µÔë	null
+null	Dolby Pro-logic	¶Å±È¶¨ÏòÂß¼­	null
+null	Dolby SR-D dolby SR digital	¶Å±ÈÊı×ÖÆµÆ×¼ÇÂ¼	null
+null	Dolby Surround	¶Å±È»·ÈÆ	null
+null	Dome loudspeaker	Çò¶¥ÑïÉùÆ÷	null
+null	Dome type	Çò¶¥£¨ÑïÉùÆ÷£©	null
+DOP	doppler	¶àÆÕÀÕ£¨ÏìÓ¦£©	null
+null	Double	¼Ó±¶£¬Ë«£¬´Î°Ë¶È	null
+null	Doubler	±¶ÆµÆ÷£¬¼Ó±¶Æ÷	null
+null	Double speed	±¶ËÙ¸´ÖÆ	null
+D.OUT	direct output	Ö±½ÓÊä³ö	null
+null	Down	ÏòÏÂ£¬ÏòÏÂµ÷Õû£¬ÏÂÒÆ£¬¼õÉÙ	null
+DPCM	differential pulse code modulation	²î¶¯Âö³åµ÷ÖÆ	null
+DPD	direct pure MPX decoder	Ö±½Ó´¿¶àÂ·½âµ÷Æ÷	null
+DPL	dolby pro logic	¶Å±È¶¨ÏòÂß¼­	null
+DPL	duplex	Ë«¹¤£¬Ë«Áª	null
+DPLR	doppler	¶àÆÕÀÕ£¨ÏµÍ³£©	null
+null	D.Poher effect	µÂ.²¨°£Ğ§Ó¦	null
+null	Dr displacement corrector	Î»ÒÆĞ£×¼Æ÷£¬Í¬²½»ú	null
+DR	distributor	·ÖÅäÆ÷	null
+DR	drum	´Å¹Ä	null
+null	Drain	Â©µç£¬Â©¼«	null
+DRAM	direct read after write	Ò»´ÎĞÔ¶ÁĞ´´æ´¢Æ÷	null
+null	Drama	¾ç³¡Ğ§¹û	null
+null	DRAW	Ö»¶Á×·ÒäĞÍ¹âÅÌ	null
+null	Dr.Beat	È¡×ÖÊ±¼äĞ£×¼Æ÷	null
+DRCN	dynamic range compression and normalization	¶¯Ì¬·¶Î§Ñ¹ËõºÍ¹éÒ»»¯	null
+null	Drive	Çı¶¯£¬¼¤Àø	null
+null	Dr.Rhythm	½Ú×àÍ¬²½Ğ£×¼Æ÷	null
+DRPS	digital random program selector	Êı×ÖÊ½½ÚÄ¿Ëæ»úÑ¡ÔñÆ÷	null
+null	Drum	¹Ä	null
+null	Drum machine	¹Ä»ú	null
+null	Dry	¸É£¬ÎŞĞ§¹ûÉù£¬Ö±´ïÉù	null
+DS	distortion	Ê§Õæ	null
+DSC	digital signal converter	Êı×ÖĞÅºÅ×ª»»Æ÷	null
+DSL	dynamic super loudness	µÍÒô¶¯Ì¬³¬Ïì¶È£¬ÖØµÍÒô»Ö¸´	null
+DSM	dynamic scan modulation	¶¯Ì¬É¨ÃèËÙ¶Èµ÷ÖÆÆ÷	null
+DSP	digital signal processor	Êı×ÖĞÅºÅ´¦ÀíÆ÷	null
+DSP	display simulation program	ÏÔÊ¾Ä£Äâ³ÌĞò	null
+DSP	digital sound processor	Êı×ÖÉùÒô´¦ÀíÆ÷	null
+DSP	digital sound field processor	Êı×ÖÉù³¡´¦ÀíÆ÷	null
+DSP	dynamic speaker	µç¶¯Ê½ÑïÉùÆ÷	null
+DSS	digital satellite system	Êı×ÖÎÀĞÇÏµÍ³	null
+DT	data terminal	Êı¾İÖÕ¶Ë	null
+DT	data transmission	Êı¾İ´«Êä	null
+DTL	direct to line	Ö±½ÓÈ¥ÏßÂ·	null
+DTS	digital theater system	Êı×ÖÓ°¾çÔºÏµÍ³	null
+DTS	digital tuning system	Êı×Öµ÷Ğ³ÏµÍ³	null
+DTV	digital television	Êı×ÖµçÊÓ	null
+null	Dual	¶ÔÅ¼£¬Ë«ÖØ£¬Ë«	null
+null	Dub	¸´ÖÆ£¬ÅäÒô£¬¿½±´£¬×ªÂ¼´Å´ø	null
+null	Dubbing mixer	»ìÂ¼µ÷ÒôÌ¨	null
+null	Duck	°´Èë£¬½øÈë	null
+null	Dummyload	¼Ù¸ºÔØ	null
+DUP	Duplicate	¸´ÖÆ£¨Æ·£©	null
+null	Duplicator	¸´ÖÆ×°ÖÃ£¬Ôö±¶Æ÷	null
+null	Duration	³ÖĞøÊ±¼ä£¬¿í¶È	null
+null	Duty	¸ºÔØ£¬×÷ÓÃ·¶Î§£¬¹¦ÂÊ	null
+null	Duty cycle	Õ¼¿ÕÏµÊı£¬Æµ¿í±È	null
+DUX	duplex	Ë«¹¤	null
+DV	device	×°ÖÃ£¬Æ÷¼ş	null
+DVC	digital video cassette	Êı×ÖÂ¼Ïó´ø	null
+DVD	digital video disc	Êı×Ö¼¤¹âÊÓÅÌ	null
+null	DX	ÌìÏßÊÕ·¢¿ª¹Ø£¬Ë«ÖØµÄ£¬Ë«ÏòµÄ	null
+DYN	dynamic	µç¶¯Ê½µÄ£¬¶¯Ì¬·¶Î§£¬¶¯È¦Ê½µÄ	null
+null	Dynamic filter	¶¯Ì¬ÂË²¨£¨ÌØÊâĞ§¹û´¦Àí£©Æ÷	null
+null	Dynamic Microphone	¶¯È¦»°Í²	null
+null	Dynamic range	¶¯Ì¬·¶Î§	null
+null	Dynode	µç×Ó±¶ÔöÆ÷µç¼«	null
+null	early warning	Ô¤¾¯	null
+E	earth	ÕæµØ£¬½ÓµØ	null
+E	error	´íÎó£¬²î´í£¨¹ÊÕÏÏÔÊ¾£©	null
+EA	earth	µØÏß£¬ÕæµØ	null
+EAR	early	ÔçÆÚ£¨·´ÉäÉù£©	null
+null	Earphone	¶ú»ú	null
+null	Earth terminal	½ÓµØ¶Ë	null
+EASE	electro-acooustic simulators for engineers	¹¤³ÌÊ¦ÓÃµçÉùÄ£ÄâÆ÷£¬¼ÆËã»úµçÉùÓëÉùÑ§Éè¼ÆÈí¼ş	null
+null	Eat	ÊÕÈ¡ĞÅºÅ	null
+EBU	european broadcasting union	Å·ÖŞ¹ã²¥ÁªÃË	null
+EC	error correction	Îó²îĞ£Õı	null
+ECD	electrochomeric display	µçÖÂ±äÉ«ÏÔÊ¾Æ÷	null
+null	Echo	»ØÉù£¬»ØÉùĞ§¹û£¬»ìÏì	null
+ECL	extension zcompact limitter	À©Õ¹Ñ¹ËõÏŞÖÆÆ÷	null
+ECM	electret condenser microphone	×¤¼«Ìå»°Í²	null
+ECSL	equivalent continuous sound level	µÈ¼¶Á¬ĞøÉù¼¶	null
+ECT	electronec controlled transmission	µç¿Ø´«Êä	null
+ED	edit editor	±à¼­£¬±à¼­Æ÷	null
+null	Edit	±à¼­	null
+null	Edge tone	±ßÀâÒô	null
+EDTV	enhanced definition television	ÔöÇ¿ÇåÎú¶ÈµçÊÓ£¨Ò»ÖÖ¿É¼æÈİ¸ßÇåÎú¶ÈµçÊÓ£©	null
+E-DRAW	erasable direct after write	¿É´æ¿ÉÄ¨¶ÁĞ´´æ´¢Æ÷	null
+EE	errors excepted	ÔÊĞíÎó²î	null
+EFF	effect efficiency	Ğ§¹û£¬×÷ÓÃ	null
+null	Effector	²Ù×İ×°ÖÃ£¬Ğ§¹ûÆ÷	null
+null	Effects generator	Ğ§¹û·¢ÉúÆ÷	null
+null	EFM	8/14Î»µ÷ÖÆ·¨	null
+EFX	effect	Ğ§¹û	null
+EG	envelope generator	°üÂç·¢ÉúÆ÷	null
+EIA	electronec industries association	£¨ÃÀ¹ú£©µç×Ó¹¤ÒµĞ­»á	null
+EIAJ	electronic industries association Japan	ÈÕ±¾µç×Ó¹¤ÒµĞ­»á	null
+EIN	einstein	Á¿×ÓÄ¦¶û£¨ÄÜÁ¿µ¥Î»£©	null
+EIN	equivalent input noise	µÈĞ§ÊäÈëÔëÉù	null
+EIO	error in operation	²Ù×÷Âë´íÎó	null
+null	Eject	µ¯Æğ²ÕÃÅ£¬È¡³ö´Å´ø£¨¹âÅÌ£©£¬³öºĞ	null
+EL	electro luminescence	³¡ÖÂ·¢¹â	null
+ELAC	electroacoustic	µçÉù£¨Æ÷¼ş£©	null
+ELEC	electret	×¤¼«Ìå	null
+null	Electret condenser microphone	×¤¼«Ìå»°Í²	null
+ELF	extremely low frequency	¼«µÍÆµ	null
+ELEC	electronec	µç×ÓµÄ	null
+null	Electroacoustics	µçÉùÑ§	null
+EMI	electro magnetic interference	µç´Å¸ÉÈÅ	null
+null	Emission	·¢Éä	null
+EMP	emphasispo	¼ÓÖØ	null
+EMP	empty	¿ÕÔØ	null
+null	Emphasis	¼ÓÖØ	null
+EMS	emergency switch	½ô¼±¿ª¹Ø	null
+null	Emulator	Ä£ÄâÆ÷£¬·ÂÕæÉè±¸	null
+EN	enabling	Æô¶¯	null
+null	Enable	¸³ÄÜ£¬³·Ïû½ûÖ¹Ö¸Áî	null
+null	Encoding	±àÂë	null
+null	End	Ä©¶Ë£¬½áÊø£¬ÖÕÖ¹	null
+null	Ending	ÖÕ¶Ë£¬¶Ë½Ó·¨£¬Ïâ±ß	null
+ENG	engineering	¹¤³Ì	null
+null	Engine	ÔËĞĞ£¬Ê¹ÓÃ	null
+ENG	land	¹¤³Ì½ÓµØ	null
+null	Enhance	ÔöÇ¿£¬Ìá¸ß£¬ÌáÉı	null
+ENS	ensemble	ºÏ×à	null
+ENS	envelope sensation	Èº¸Ğ	null
+null	Eensemble	ºÏ×à	null
+null	Eensemble	ºÏ×à	null
+ENT	enter	¼ÇÂ¼	null
+null	Enter	¼ÇÈë£¬½øÈë£¬»Ø³µ	null
+null	Entering	²åÈë£¬¼ÇÂ¼	null
+null	Entry	ÊäÈëÊı¾İ£¬½øÈë	null
+ENV	envelope	°üÂçÏß	null
+null	Envelopment	»·ÈÆ¸Ğ	null
+EOP	electronic overload protection	µç×Ó¹ıÔØ±£»¤	null
+EOP	end of program	³ÌĞò½áÊø	null
+EOP	end output	Ä©¶ËÊä³ö	null
+EOT	end of tape	´Å´øÎ²¶Ë	null
+EP	extend playing record	¶àÇúÄ¿³ªÆ¬	null
+EP	extended play	³¤Ê±¼ä·ÅÂ¼£¬ÃÜÂ¼	null
+EPG	edit pulse generator	±à¼­Âö³å·¢ÉúÆ÷	null
+EPS	emergency power supply	Ó¦¼±µçÔ´	null
+EQ	equalizer	¾ùºâÆ÷£¬¾ùºâ	null
+EQ	equalization	¾ùºâ	null
+EQL	equalization	¾ùºâ	null
+null	Equal-loudness contour	µÈÏìÇúÏß	null
+null	Equipped	×¼±¸ºÃµÄ£¬ÒÑ×°±¸	null
+null	Equitonic	È«Òô	null
+null	Equivalence	µÈĞ§Öµ	null
+ER	erect	ÉèÖÃ	null
+ER	error	´íÎó£¬Îó²î	null
+ERA	earphone	¶ú»ú	null
+null	Eraser	Ä¨È¥£¬Ïû³ı	null
+null	Erasing	²Á³ı£¬ÇåÏ´	null
+null	Erasure	Ä¨Òô	null
+null	Erase	Ïû³ı£¬Ïû	null
+null	Er early	ÔçÆÚµÄ	null
+ERCD	extended resolution CD	À©Õ¹½âÎö¶ÈCD	null
+EREQ	erect equalizer	¾ùºâÆ÷£¨Æµµã£©Î»ÖÃ£¨µãÆµ²¹³¥µçÂ·µÄÖĞµãÆµÂÊ£©µ÷Õû	null
+ERF	early reflection	ÔçÆÚ·´Éä£¨Éù£©	null
+null	Ernumber	ÔçÆÚ·´ÉäÉùÁ¿	null
+null	Error	´íÎó£¬³ö´í£¬²»ÕıÈ·	null
+ES	earth swith	½ÓµØ¿ª¹Ø	null
+ES	electrical stimulation	µã¼¤Àø	null
+null	Escqpe	ÍË³ö	null
+ETER	eternity	ÎŞÏŞ	null
+null	Euroscart	Å·ÖŞ±ê×¼21½ÅAVÁ¬½ÓÆ÷	null
+null	Event	ÊÂ¼ş	null
+EVF	envelope follower	°üÂç¸úËæÆ÷£¨ÒôÏìºÏ³É×°ÖÃ¹¦ÄÜµ¥Ôª£©	null
+EX	exciter	¼¤ÀøÆ÷	null
+EX	exchange	½»»»	null
+EX	expanding	À©Õ¹	null
+EXB	expanded bass	µÍÒôÔöÇ¿	null
+EXC	exciter	¼¤ÀøÆ÷	null
+EXCH	exchange	×ª»»	null
+null	Exclusive	×¨ÓÃµÄ	null
+null	Excursion	Æ«ÒÆ£¬Æ«×ª£¬Æ¯ÒÆ£¬Õñ·ù	null
+EXP	expender	À©Õ¹Æ÷£¬¶¯Ì¬À©Õ¹Æ÷	null
+EXP	export	Êä³ö	null
+null	Exponential horn tweeter	Ö¸ÊıĞÍ¸ßÒôºÅ½ÇÑïÉùÆ÷	null
+null	Expression pedal	±í´ïÌ¤°å£¨ÓÃÓÚ¿ØÖÆÀÖÆ÷»òĞ§¹ûÆ÷µÄ½ÅÌ¤×°ÖÃ£©	null
+EXT	extend	À©Õ¹	null
+EXT	exterior	Íâ½ÓµÄ£¨Éè±¸£©	null
+EXT	external	Íâ²¿µÄ£¬Íâ½ÓµÄ	null
+EXT	extra	³¬¹ı	null
+EXTN	extension	À©Õ¹£¬ÑÓÉì£¨³Ì¿Ø×°ÖÃ¹¦ÄÜµ¥Ôª£©	null
+null	Extract	¹ìµÀÌá³ö	null
+EXTSN	extension	À©Õ¹£¬ÑÓÉì£¨³Ì¿Ø×°ÖÃ¹¦ÄÜµ¥Ôª£©	null
+F	fast	¿ì£¨ËÙ£©	null
+F	feedback	·´À¡	null
+F	forward	ÏòÇ°	null
+F	foot	½ÅÌ¤£¨×°ÖÃ£©	null
+F	frequency	ÆµÂÊ	null
+F	function	¹¦ÄÜ	null
+null	Ffactor	Òò×Ó£¬ÒòËØ£¬ÏµÊı£¬ÒòÊı	null
+null	Fade	Ë¥¼õ£¨ÒôÁ¿¿ØÖÆµ¥Ôª£©	null
+null	Fade in-out	µ­Èëµ­³ö£¬Âı×ª»»	null
+null	Fader	Ë¥¼õÆ÷	null
+null	Fade up	Æ½»¬ÉÏÉı	null
+null	Failure	¹ÊÕÏ	null
+null	Fall	Ë¥Âä£¬Ğ±¶È	null
+null	Faraday shield	·¨À­µÚÆÁ±Î£¬¾²µçÆÁ±Î	null
+FAS	full automatic search	È«×Ô¶¯ËÑË÷	null
+null	Fast	¿ìËÙ£¨×Ô¶¯Ñİ×à×°ÖÃµÄËÙ¶Èµ÷ÕûÅ¥£©	null
+null	Fastener	½ÓÏßÖù£¬±ÕËø	null
+null	Fat	»ëºñ£¨ÒôÕùµ÷ÕûÅ¥£©	null
+null	Fattens out	Æ½Ö±Êä³ö	null
+null	Fault	¹ÊÕÏ£¬Ëğ»µ	null
+null	Fader	Ë¥¼õÆ÷£¬µ÷ÒôÌ¨ÍÆÀ­µçÎ»Æ÷£¨ÍÆ×Ó£©	null
+null	Fading in	½¥ÏÔ	null
+null	Fading out	½¥ÏÔ	null
+null	False	´íÎó	null
+null	Fancier	ÒôÏì·¢ÉÕÓÑ	null
+null	Far field	Ô¶³¡	null
+null	FatEr	·áÂúµÄÔçÆÚ·´Éä	null
+FB	feedback	·´À¡£¬Éù·´À¡	null
+FB	fuse block	ÈÛË¿ºĞ	null
+F.B	fiver by	ÇåÎú	null
+FBO	feedback outrigger	·´À¡ÑÓÉì	null
+FCC	federal communications commission	£¨ÃÀ¹ú£©Áª°îÍ¨ĞÅÎ¯Ô±»á	null
+FD	fade depth	Ë¥¼õÉî¶È	null
+FD	feed	À¡ÈëĞÅºÅ	null
+FDR	fader	Ë¥¼õÆ÷	null
+null	FeCr	Ìú¸õ´Å´ø	null
+null	Feed	À¡¸ø£¬À¡Èë£¬ÊäÈë	null
+null	Feeder	À¡Ïß	null
+null	Ferrite head	ÌúÑõÌå´ÅÍ·	null
+FET	field effect technology	³¡Ğ§Ó¦¼¼Êõ	null
+FF	flip flop	´¥·¢Æ÷	null
+FF	fast forward	¿ì½ø	null
+FG	flag generator	±êÖ¾ĞÅºÅ·¢ÉúÆ÷	null
+FI	fade in	½¥½ø	null
+null	Field	Éù³¡	null
+null	Field pickup	Êµ¿öÊ°Òô	null
+null	File	ÎÄ¼ş£¬´æÈë£¬¹éµµ£¬Êı¾İ¼¯£¬£¨Íâ£©´æ´¢Æ÷	null
+null	Fill-in	ÌîÈë	null
+FILT	filter	ÂË²¨Æ÷	null
+null	Final	ÔÏÄ¸	null
+null	Fine	Î¢µ÷	null
+null	Fingered	¶àÖ¸ºÍÏÒ	null
+null	Finger	ÊÖÖ¸£¬µ¥Ö¸ºÍÏÒ	null
+FIN	GND	½ÓµØÆ¬	null
+null	Finish	½áÊø£¬ĞŞÊÎ	null
+FIP	digital frequency display panel	Êı×ÖÆµÂÊÏÔÊ¾°å	null
+FIR	finite-furation impulse response	ÓĞÏŞ³å¼¤ÏìÓ¦£¨ÂË²¨Æ÷£©	null
+null	Fire	Æô¶¯	null
+null	Fix	È·¶¨£¬¹Ì¶¨	null
+null	Fizz	Ë»Ë»Éù	null
+FL	fluorescein	Ó«¹âĞ§¹û	null
+null	Flange	·¨À¼ÒôÏìĞ§¹û£¬Ïâ±ßĞ§¹û	null
+null	Flanger	Ïâ±ßÆ÷	null
+null	Flanging	Ïâ±ß	null
+null	Flash	ÉÁ¹âĞÅºÅ	null
+null	Flat	Æ½Ì¹£¬Æ½Ö±	null
+null	Flat noise	°×ÔëÉù	null
+null	Flat tuning	´Öµ÷	null
+null	Flex	¹Õµã	null
+FLEX	flexible cord	ÈíÏß£¬ÈûÉş	null
+FLEX	frequency level expander	ÆµÂÊÀ©Õ¹Æ÷	null
+FLEXWAVE	flexible waveguide	¿ÉÍäÇú²¨µ¼¹Ü	null
+FLG	flanger	Ïâ±ßÆ÷	null
+null	Flip	Ìæ»»£¬µ÷»»	null
+null	Floating	·Ç¹Ì¶¨µÄ£¬Ğü¸¡Ê½µÄ	null
+null	Floppy disc	Èí´ÅÅÌ	null
+FLTR	filter	ÂË²¨Æ÷	null
+null	Fluorescent display	Ó«¹âÏÔÊ¾Æ÷	null
+null	Flute	³¤µÑ	null
+null	Flutter	Ò»ÖÖ·ÅÒôÊ§Õæ£¬Âö³å¸ÉÈÅ£¬²ü¶¯	null
+FLW	follow	¸ú×Ù£¬Ëæ¶¯	null
+null	FLY	¾ùºâÆ÷	null
+FM	fade margin	Ë¥ÂäÉè±¸	null
+FM	frequency modulation	µ÷Æµ¹ã²¥	null
+FO	fade out	½¥Òş	null
+null	Focus	½¹µã£¬ÖĞĞÄµã	null
+null	Foldback	·µËÍ£¬¼àÌı	null
+null	Fomant	¹²Õñ·å	null
+null	Force	¹ıÔØ£¬Ç¿ĞĞÖÃÈë	null
+null	Format	¸ñÊ½£¬¸ñÊ½»¯£¬¹æ¸ñ£¬£¨´¢´æÆ÷ÖĞµÄ£©ĞÅÏ¢°²ÅÅ	null
+null	Forward	×ªËÍ	null
+FPR	floating point routine	¸¡µã³ÌĞò	null
+FPR	full power response	È«¹¦ÂÊÏìÓ¦	null
+FR	frequency	ÆµÂÊ	null
+FR	frequency response	ÆµÂÊÏìÓ¦	null
+null	Frame	»­Ãæ£¬£¨µçÊÓµÄ£©Ö¡	null
+null	Frames	Ö¡Êı	null
+null	Free	Ê£Óà£¬×ÔÓÉ	null
+null	Free echoes	ÎŞÏŞ»ØÉù£¨ÑÓÊ±Ğ§¹û´¦ÀíµÄÒ»ÖÖ£©	null
+null	Free edge	×ÔÓÉÕÛ»·£¨ÑïÉùÆ÷£©	null
+FREEQ	frequency	ÆµÂÊ	null
+null	F.Rew fast rewind	¿ìµ¹	null
+null	Freeze	Äı¹Ì£¬ÉùÒôÖèÍ££¬¾²Ö¹	null
+null	Frequency divider	·ÖÆµÆ÷	null
+null	Frequency shifter	ÒÆÆµÆ÷£¬±äÆµÆ÷	null
+null	Fricative	²ÁÒô	null
+null	Front	Ç°ÃæµÄ£¬ÕıÃæµÄ	null
+null	Front balance	Ç°ÖÃÆ½ºâ	null
+null	Front process	Ç°Éù³¡´¦Àí	null
+FRU	field replaceable unit	²å¼ş£¬¿É»»²¿¼ş	null
+FS	frequency shift	ÆµÒÆ£¬±äµ÷	null
+FS	full short	È«¾°	null
+FT	facility terminal	Éè±¸£¨Êä³ö£©¶Ë¿Ú	null
+FT	fine tuning	Î¢µ÷	null
+FT	foot	½ÅÌ¤×°ÖÃ	null
+FT	function tist	¹¦ÄÜ²âÊÔ	null
+FT	frequency tracke	ÆµÂÊ¸ú×ÙÆ÷	null
+FTG	fitting	½ÓÍ·£¬Åä¼ş	null
+FTS	faverate track selection	×î¼ÑÉù¼£Ñ¡Ôñ	null
+null	Full	·áÂú£¬±¥ºÍ	null
+null	Full auto	È«×Ô¶¯	null
+null	Full effect recording	È«Ğ§¹ûÂ¼Òô	null
+null	Full range	È«ÒôÓò£¬È«Æµ	null
+G	gate	ÃÅ£¨µçÂ·£©	null
+G	ground	½ÓµØ	null
+GA	general average	×ÜÆ½¾ùÖµ	null
+null	Gain	ÔöÒæ£¬ÌáË¥Á¿	null
+null	Game	¿¨À­OKÒôÏìĞ§¹û	null
+null	Gamut	ÒôÓò	null
+null	Gap	¼ä¸ô£¬Í¨µÀ	null
+null	Gate	ÔëÉùÃÅ£¬ÃÅ£¬Ñ¡Í¨	null
+null	Gated Rev	Ñ¡Í¨»ìÏì£¨¿ªÃÅµÄÊ±¼äÄÚÓĞ»ìÏìĞ§¹û£©	null
+null	GB	¼ª×Ö½Ú	null
+null	Gear	·ç¸ñ£¬¸ñµ÷	null
+GEN	generator	£¨ĞÅºÅ£©·¢ÉúÆ÷	null
+null	General	×ÛºÏĞ§¹û	null
+null	Generator	ĞÅºÅ·¢ÉúÆ÷	null
+GEQ	graphie equalizier	Í¼Ê¾¾ùºâÆ÷	null
+GD	ground	½ÓµØ	null
+null	Girth	¼¤ÀøÆ÷µÄµÍÒôÇ¿¶Èµ÷½Ú	null
+null	Glide strip	»¬×àÌõ£¨Ñİ×à×°ÖÃ£©	null
+null	GLLS-sando	»¬½µ£¨Ñİ×àµÄĞ§¹û£©	null
+null	Global	×ÜÌåÉè¼Æ	null
+GM	genertal MIDI	Í¨ÓÃÀÖÆ÷Êı×Ö½ÓÆ÷	null
+GND	ground	µØÏß£¬½ÓµØ¶Ë GP group ±à×é	null
+GPR	general purpose receiver	Í¨ÓÃ½ÓÊÕ»ú	null
+GPI	general purpose interface	Í¨ÓÃ½Ó¿ÚÉè±¸	null
+null	Govern	µ÷Õû£¬¿ØÖÆ£¬²Ù×÷£¬ÔË×ª	null
+GR	group	×éºÏ	null
+null	Gramophone	ÁôÉù»ú£¬³ª»ú	null
+null	Graphic equalizer	Í¼Ê¾¾ùºâÆ÷£¬Í¼±í¾ùºâÆ÷	null
+GRND	ground	½ÓµØ	null
+null	Groove	¹âÅÌÂİĞıµÀµÄ²Û	null
+null	Group	±à×é£¨µ÷ÒôÌ¨£©£¬×é	null
+null	Growler	ÏßÈ¦¶ÌÂ·²âÊÔÒÇ	null
+GT	gate	ÃÅ£¬ÔëÉùÃÅ	null
+GT	gauge template	Ñù°å	null
+GTE	gate	ÃÅ£¨µçÂ·£©	null
+GTR	gate reverb	ÃÅ»ìÏì	null
+null	Guard	±£»¤£¬·À»¤×°ÖÃ	null
+GUI	graphical user interface	Í¼ĞÎÓÃ»§½Ó¿Ú	null
+null	Guitar	¼ªËü	null
+null	Guy	À­Ïß	null
+null	Gymnasium	ÌåÓı¹İĞ§¹û	null
+null	Gyrator	»ØĞıÆ÷	null
+HQAD	high quality audio disc	¸ßÆ·Î»ÒôÆµ¹âÅÌ	null
+HR	handing room	²Ù×÷ÊÒ	null
+HR	high resistance	¸ß×è¿¹£¨ĞÅºÅ¶Ë×ÓµÄ×è¿¹ÌØĞÔ£©	null
+HRTF	head-related transfer function	ÈËÄÔÏà¹Ø×ª»»¹¦ÄÜ	null
+HS	head set	Í·´÷Ê½¶ú»ú	null
+HS	hybrid system	»ìºÏÏµÍ³	null
+HT	home theater	¼ÒÍ¥Ó°Ôº£¬¼ÒÍ¥¾ç³¡	null
+null	Hubrid	»ìºÏÍøÂç£¬ÇÅ½Ó²íÂ·	null
+null	Hum	½»Á÷ºßÉù£¬½»Á÷µÍÆµ£¨50Hz£©ÔëÉù	null
+null	Hum and Noise	ºßÔÓÉù£¬½»Á÷ÔëÉù	null
+null	Humidity	Êª¶È£¬ÊªÆø	null
+HUT	homes using TV	¼ÒÓÃµçÊÓ	null
+HVDS	Hi-visual dramatic sound	¸ß±£ÕæÏÖ³¡¸ĞÒôÏìÏµÍ³	null
+HX	headroom extension	¶¯Ì¬ÓàÁ¿À©Õ¹£¨ÏµÍ³£©£¨Ò»ÖÖ¶Å±È½µÔëÏµÍ³£©£¬¾»¿ÕÑÓÉì	null
+H	horizonal	Ë®Æ½£¨×´Ì¬£©	null
+H	hot	ÈÈ£¨Æ½ºâĞÅºÅ¶Ë¿ÚµÄ¡°ÈÈ¶Ë¡±£©	null
+null	Hall	ÌüÌÃĞ§¹û	null
+null	Handle	ÊÖ±ú£¬¿ØÖÆ	null
+HAR	harmonec	Ğ³²¨	null
+null	Hard knee	Ó²¹Õµã£¨Ñ¹ÏŞÆ÷£©	null
+null	Harmonic	Ğ³²¨	null
+null	Harmonic distortion	Ğ³²¨Ê§Õæ	null
+null	Harmonic Generator	Ğ³²¨·¢ÉúÆ÷	null
+null	Harmonize	£¨Ê¹£©ºÍĞ³£¬Ğ£Òô	null
+null	Harmony	ºÍĞ³	null
+null	Harp	ÊúÇÙ	null
+null	Hash	ÔÓÂÒÂö³å¸ÉÈÅ	null
+null	Hass effect	¹şË¹Ğ§Ó¦	null
+HD	harmonic distortion	Ğ³²¨Ê§Õæ	null
+HDCD	high definition compatible	digital	null
+HDTV	hight definiton television	¸ßÇåÎú¶ÈµçÊÓ	null
+null	Head	Â¼Òô»ú´ÅÍ·£¬Ç°ÖÃµÄ£¬³ªÍ·	null
+null	Head azimuth	´ÅÍ··½Î»½Ç	null
+null	Head gap	´ÅÍ··ìÏ¶	null
+null	Headroom	¶¯Ì¬ÓàÁ¿£¬¶¯Ì¬·¶Î§ÉÏÏŞ£¬µçÆ½´¢±¸	null
+null	Headphone	Í·´÷Ê½¶ú»ú	null
+null	Headset	Í·´øÊ½¶ú»ú	null
+null	Heavy metel	ÖØ½ğÊô	null
+null	HeiFin	´¹Ö±Î¢µ÷	null
+null	Hearing	Ìıµ½£¬Ìı¾õ	null
+null	Heat sink	É¢ÈÈ°å	null
+null	Help	£¨¶Ô³ÌĞòµÄ£©½âÊÍ	null
+HF	high frequency	¸ßÆµ£¬¸ßÒô	null
+null	Hi hign	¸ßÆµ£¬¸ßÒô	null
+HI	band	¸ßÆµ´ø	null
+null	Hi-end	×î¸ßÆ·ÖÊ£¬¶¥¼¶	null
+null	Hi-BLEND	¸ßÆµ»ìºÏÖ¸Ê¾	null
+null	High cut	¸ßÇĞ	null
+null	High pass	¸ßÍ¨	null
+null	Highway	×ÜÏß£¬ĞÅÏ¢Í¨µÀ	null
+null	Hi-Fi high fidelity	¸ß±£Õæ£¬¸ß±£ÕæÒôÏì	null
+null	Hiss	ßĞÉù	null
+null	Hi-Z	¸ß×è¿¹	null
+HL	half reverb	´óÌü»ìÏì	null
+null	Hoghorn	Å×ÎïÃæÀ®°È	null
+null	Hoisting	ÌáÉı	null
+null	Hold	±£³Ö£¬ÎŞÏŞÑÓĞø£¬±£³ÖÊ±¼ä	null
+null	Holder	Ö§¼Ü£¬¹Ì¶¨¼Ü	null
+null	Hold-off	½â³ı±£³Ö	null
+null	Home	¼ÒÍ¥£¬ÊµÓÃ	null
+null	Home theatre	¼ÒÍ¥Ó°Ôº	null
+null	Horizontal	Ë®Æ½µÄ£¬ºáÏòµÄ	null
+null	Horn	¸ßÒôºÅ½Ç£¬ºÅÍ²£¬Ô²ºÅ	null
+null	Hornloaded	ºÅ½Ç´¦Àí	null
+null	Hot	ÈÈ¶Ë£¬¸ßµçÎ»¶Ë	null
+null	Hour	Ğ¡Ê±	null
+null	Howling	Ğ¥½ĞÉù	null
+null	Howlround	Ğ¥½Ğ	null
+H.P	headphone	Í·´÷Ê½¶ú»ú	null
+HPA	haas pan allochthonous	¹şË¹ÉùÏñÆ¯ÒÆ	null
+HPF	high pass filter	¸ßÍ¨ÂË²¨Æ÷	null
+HQ	high quality	¸ßÖÊÁ¿£¬¸ßÆ·Î»	null
+null	Hyper Condenser	³¬ĞÄĞÍµÄ	null
+HZ	hertz	ºÕ×È	null
+H	hard	Ó²µÄ£¨ÒôÏìĞ§¹ûÌØÕ÷£©	null
+IC	integrated circuit	¼¯³ÉµçÂ·	null
+ID	identification	Ê¶±ğ	null
+ID	identify	±êÖ¾	null
+null	Idle	¿ÕÔØµÄ£¬ÎŞĞ§¹ûµÄ	null
+IDTV	improved definition television	¸Ä½øÇåÎú¶ÈµçÊÓÏµÍ³	null
+IEC	international electrical commission	¹ú¼Êµç¹¤Î¯Ô±»á	null
+IEEE	institute of electrical&electronic engineers	µçÆø¼°µç×Ó¹¤³ÌÊ¦Ñ§»á	null
+IF	intermidiate frequency	ÖĞÆµµÄ	null
+IHF	the institute of high fidelity	¸ß±£ÕæÑ§»á	null
+IIR	infinite-duration impulse response	ÎŞÏŞ³å¼¤ÏìÓ¦	null
+IKA	Interactive knee adapt	»¥µ÷¹ÕµãÊÊÅä£¬Èí¹Õµã	null
+IM	impulse modulation	Âö³åµ÷¼Á	null
+IM	image	Ó°Ïó	null
+IMD	intermodulation distortion	»¥µ÷Ê§Õæ	null
+IMP	impedance	×è¿¹	null
+IMP	impedence	×è¿¹	null
+IMP	interface message processor	½Ó¿ÚĞÅÏ¢´¦Àí»ú	null
+null	Improper	´íÎóµÄ	null
+IN	inductor	¸ĞÓ¦Æ÷	null
+IN	input	ÊäÈë	null
+IN	inverter	·´ÑİÆ÷£¬µ¹ÏàÆ÷	null
+null	Inactive	ÔİÍ££¬Ê§Ğ§µÄ	null
+INC	incoming	ÒıÈëÏß	null
+INC	increase	Ôö¸ß	null
+INCOM	intercom	ÄÚ²¿Í¨»°£¨ÏµÍ³£©	null
+null	In phase	Í¬Ïà	null
+IND	index	Ë÷Òı£¬±êÖ¾£¬Ö¸Êı	null
+IND	indicator	Ö¸Ê¾Æ÷	null
+null	Indicator	ÏÔÊ¾Æ÷£¬Ö¸Ê¾Æ÷	null
+null	Indirect	¼ä½Ó	null
+null	Inductance	µç¸Ğ	null
+null	Induction	¸ĞÓ¦£¬ÒıÈë	null
+INF	infinite	ÎŞÏŞ´ó	null
+null	Infrared	ºìÍâÏßµÄ	null
+null	Infra-red remote control	ºìÍâÏßÒ£¿Ø	null
+INH	inhibit	ÒÖÖÆ£¬½ûÖ¹	null
+null	Initial	ÉùÄ¸£¬³õÊ¼»¯	null
+null	Infinite	ÎŞÏŞµÄ£¬·ÇÏŞ¶¨µÄ	null
+null	Increase	Ôö¼Ó	null
+null	Initial Delay	ÔçÆÚÑÓÊ±£¬³õ´ÎÑÓÊ±	null
+null	Inject	×¢Èë£¬ÖÃÈë Inlead ÒıÈëÏß	null
+null	Inlet	ÒıÈëÏß£¬²åÈë In-line ´®ÁªµÄ£¬ÔÚÏßµÄ	null
+INP	input	ÊäÈë£¨¶Ë¿Ú£©	null
+INV	invertor	µ¹ÏàÆ÷£¬·­×ªÆ÷£¬·´ÏàÆ÷£¬±ä»»Æ÷	null
+null	Inverse	µ¹Ïà	null
+null	Inverseve Rev	µßµ¹Ê½»ìÏìĞ§¹û	null
+null	Invert	ÂÖÁ÷£¬·´×ª	null
+I/O	in/out	ÊäÈë/Êä³ö£¨½Ó¿Ú£©£¬ĞÅºÅ²åÈë½Ó¿ÚI/O	null
+null	instead of	Ìæ´ú	null
+IPE	integrated parameter editing	×ÛºÏ²ÎÁ¿±à¼­	null
+IR	infrared sensor	ºìÍâÏß´«¸ĞÆ÷	null
+IROA	impulse response optimum algorithm	Âö³åÏìÓ¦×î¼ÑËã·¨	null
+IS	information separators	ĞÅÏ¢·Ö¸ô×Ö·û	null
+IS	in service	²»ÖĞ¶Ï·şÎñ	null
+ISO	International Standardization Organization	¹ú¼Ê±ê×¼»¯×éÖ¯	null
+J	jack	²å¿×£¬²å×ù£¬´«¶¯×°ÖÃ	null
+null	Jack socket	²å¿×	null
+null	Jaff	¸´¸ÉÈÅ	null
+null	Jagg club	¾ôÊ¿ÀÖ¾ãÀÖ²¿Ğ§¹û	null
+null	Jam	ÒÖÖÆ£¬¸ÉÈÅ	null
+null	Jamproof	¿¹¸ÉÈÅµÄ	null
+null	Jazz	¾ôÊ¿	null
+JB	junction box	½ÓÏßºĞ	null
+null	JIS	ÈÕ±¾¹¤Òµ±ê×¼	null
+null	Job	ÊÂ¼ş£¬×÷ÒµÖ¸Áî£¬³ÉÆ·	null
+null	Jog	ĞıÅÌ»º½ø£¬Âı½ø£¬Í»È»×ªÏò	null
+null	Joker	°µ²ØµÄ²»ÀûÒòËØ£¬º¬»ì²»Çå	null
+null	Joystick	¿ØÖÆÊÖ±ú£¬²Ù×İ¸Ë£¬Ò¡¸Ë	null
+JSS	jet servo system	ÅçÉäËÅ·şÊ½ÖØµÍÒôÑïÉùÆ÷ÏµÍ³	null
+null	Jumper	ÌøÏß£¬ÌõĞÎ½ÓÆ¬	null
+null	Justify	µ÷Õû	null
+null	Input	ÊäÈë	null
+null	Indicator	ÏÔÊ¾Æ÷£¬Ö¸Ê¾µÆ	null
+INS	insert	²åÈë£¨ĞÅºÅ£©£¬²åÈë½Ó¿Ú	null
+INSEL	input select	ÊäÈëÑ¡Ôñ	null
+INST	instant	Ö±½ÓµÄ£¬ÊµÊ±	null
+INST	institution	½¨Á¢£¬ÉèÖÃ	null
+INST	instrument	ÒÇÆ÷£¬ÀÖÆ÷	null
+null	Instrument	ÀÖÆ÷	null
+null	Insulator	¾øÔµÌå	null
+INT	intake	½øÈë£¬Èë¿Ú	null
+INT	intensity	Ç¿¶È£¬ÁÒ¶È	null
+INT	interior	ÄÚ²¿	null
+INT	interrupter	¶ÏÂ·Æ÷	null
+null	Integrated	×éºÏµÄ	null
+null	Integrated amplifier	Ç°ÖÃ-¹¦ÂÊ·Å´óÆ÷£¬×ÛºÏ¹¦ÂÊ·Å´óÆ÷	null
+null	Intelligate	ÖÇÄÜ»¯ÔëÉùÃÅ	null
+null	Intelligibility	¿É¶®¶È	null
+null	Interactie	Ïà»¥×÷ÓÃ£¬ÈË»ú¶Ô»°£¬Èí¹Õµã	null
+null	Interval	Òô¸ß²î±ğ	null
+null	Integrated	¼¯³ÉµÄ£¬ÍêÈ«µÄ	null
+null	Intercom	¶Ô½²£¬Í¨»°	null
+null	Interconnect	»¥ÏàÁªÏµ	null
+null	Inter cut	²å²¥	null
+null	Interface	½Ó¿Ú£¬¶Ô»°×°ÖÃ	null
+null	Interference	¸ÉÈÅ£¬¸ÉÉæ£¬´®ÈÅ	null
+null	Interim	ÁÙÊ±µÄ£¬¹ı¶ÉÌØÕ÷	null
+null	Intermodulation	»¥µ÷£¬ÄÚµ÷ÖÆ	null
+null	Intermodulation distortion	½»Ô½Ê§Õæ	null
+null	Internal	ÄÚ´æ£¬¶Ô½²»ú	null
+null	Internally	ÔÚÄÚ²¿£¬ÄÚ´æ	null
+null	Inter parameter	ÄÚ²¿²ÎÊı	null
+null	Interval	Òô¸ß²î±ğ	null
+null	Interplay	Ïà»¥×÷ÓÃ£¬ÄÚ²¿²¥·Å	null
+null	Interval shifter	ÒôĞªÒÆÏàÆ÷	null
+null	Intimacy	Ç×ÇĞ¸Ğ	null
+null	Intonation	Éùµ÷	null
+INTRO	introduction	½éÉÜ£¬ä¯ÀÀ£¬ÒıÈë£¬£¨ÀÖÇúµÄ£©Ç°×à	null
+INTRO	sacn	ÇúÍ·¼ìË÷£¨½ÚÄ¿ËÑË÷£©	null
+INTRO	sensor	ÇúÍ·¶Á³öÆ÷£¨½ÚÄ¿²éÑ¯£©	null
+null	Introskip	ÄÚÒÆ£¬ÄÚÌø	null
+ISS	insertion test signal	²åÈëÇĞ»»ĞÅºÅ	null
+ISS	interference suppression switch	¸ÉÈÅÒÖÖÆ¿ª¹Ø	null
+ITS	insertion test signal	²åÈë²âÊÔĞÅºÅ	null
+IV	interval	¼ä¸ôËÑË÷	null
+IV	inverter	µ¹ÏàÆ÷	null
+IWC	interrupted wave	¶ÏĞø²¨	null
+IX	index	±êÅÌ£¬Ö¸Õë£¬Ë÷Òı	null
+K	key	°´¼ü	null
+null	Karaoke	¿¨À­OK£¬ÎŞÈË°é×àÀÖ¶Ó	null
+KB	key board	¼üÅÌ£¬°´Å¥	null
+null	Kerr	¿Ë¶úĞ§Ó¦£¬£¨¿É¶ÁĞ´¹âÅÌ£©´Å¹âĞ§Ó¦	null
+null	Key	¼ü£¬°´¼ü£¬Éùµ÷	null
+null	Keyboard	¼üÅÌ£¬°´Å¥	null
+null	Key control	¼ü¿Ø£¬±äµ÷¿ØÖÆ	null
+null	Keyed	¼ü¿Ø	null
+null	Key EQ	Òôµ÷¾ùºâ	null
+null	kHz Kiloherts	Ç§ºÕ×È	null
+null	Kikll	Çå³ı£¬ÏûÈ¥£¬ÒÖÖÆ£¬Ë¥¼õ£¬¶Ï¿ª	null
+null	Killer	ÒÖÖÆÆ÷£¬¶ÏÂ·Æ÷	null
+null	Kit	Éè¶¨	null
+null	Knee	Ñ¹ÏŞÆ÷¹Õµã	null
+null	Knob	°´Å¥£¬ĞıÅ¥£¬µ÷½ÚÆ÷	null
+KP	key pulse	¼ü¿ØÂö³å	null
+KTV	karaoke TV	°è³ªµçÊÓ£¨½ÚÄ¿£©	null
+KX	key	¼ü¿Ø	null
+null	Lesion	¹ÊÕÏ£¬Ëğº¦	null
+null	Leslie	ÁĞË¹Àû	null
+LEV	level	µçÆ½	null
+LEVCON	level control	µçÆ½¿ØÖÆ	null
+null	Level	µçÆ½£¬Ë®Æ½£¬¼¶	null
+LF	low frequency	µÍÆµ£¬µÍÒô	null
+LFB	local feedback	±¾»ú·´À¡£¬¾Ö²¿·´À¡	null
+LFE	lowfrequency response	µÍÆµÏìÓ¦	null
+LFO	low frequency oscillation	µÍÆµÕñµ´ĞÅºÅ	null
+LGD	long delay	³¤ÑÓÊ±	null
+LH	low high	µÍÔëÉù¸ßÊä³ö	null
+LH	low noise high output	µÍÔëÉù¸ßÊä³ö´Å´ø	null
+null	L.hall large hall	´óÌüĞ§¹û	null
+null	Lift	ÌáÉı£¨Ò»ÖÖÌáÉıµØµçÎ»µÄ×°ÖÃ£©	null
+null	Lift up	ÉıÆğ	null
+null	Labial	´½Òô	null
+L	left	×ó£¨Á¢ÌåÉùÏµÍ³µÄ×óÉùµÀ£©	null
+L	line	ÏßÂ·	null
+L	link	Á´Â·	null
+L	long	³¤£¨Ê±¼ä£©	null
+LA	laser	¼¤¹â£¨ÀØÉä£©	null
+null	Lag	ÑÓ³Ù£¬ÖÍºó	null
+null	Lamp	µÆ£¬ÕÕÃ÷µÆ	null
+null	Land	¹âÅÌÂİĞıµÀµÄ¼ç£¬½ÓµØ£¬ÕæµØ	null
+null	Lap dissolve	Âı×ª»»	null
+null	Lapping SW	Í¨¶Ï¿ª¹Ø	null
+null	Large	´ó£¬´óĞÍ	null
+null	Large hall	´óÌü»ìÏì	null
+null	Larigot	Áù±¶Òô	null
+null	Laser	¼¤¹â£¨ÀØÉä£©	null
+null	Latency	¿Õ×ª£¬´ı»ú	null
+null	Launching	¼¤Àø£¬·¢Éä	null
+null	Layer	²ãµş¿ØÖÆ£¬¶àÒôÉ«Í¬²½¿ØÖÆ	null
+LCD	liquid crystal display	Òº¾§ÏÔÊ¾	null
+LCR	left center right	×óÖĞÓÒ	null
+LD	laser vision disc	¼¤¹âÊÓÅÌ£¬Ó°µú»ú	null
+LD	load	¸ºÔØ	null
+LDP	input	Ó°µúÊäÈë	null
+LDTV	low definition television	µÍ·Ö±æÂÊÊı×ÖµçÊÓ	null
+LCD	projictor	Òº¾§Í¶Ó°»ú	null
+null	Lead	Í¨µÀ£¬Ç°ÖÃ£¬ÊäÈë	null
+null	Lead-in	ÒıÈëÏß	null
+null	Leak	Â©Ğ¹	null
+null	Learn	Ñ§Ï°	null
+LED	light emitting deivce	·¢¹â·øÉäÆ÷£¬·¢¹âÆ÷¼ş	null
+M	main	Ö÷ĞÅµÀ	null
+M	master	Ö÷¿Ø	null
+M	memory	´æ´¢Æ÷	null
+M	mix	»ìÆµ	null
+M	moderate	ÊÊÖĞµÄ	null
+M	music	ÒôÀÖ	null
+null	Mac manchester auto code	ÂüÇĞË¹ÌØ×Ô¶¯Âë	null
+MADI	musical audio digital interface	ÒôÆµÊı×Ö½Ó¿Ú	null
+null	Main	Ö÷ÒªµÄ£¬Ö÷Ïß£¬Ö÷Í¨µÀ£¬µçÔ´	null
+MAG	magnet	´ÅÌú	null
+null	Magnetic tape	´Å´ø	null
+null	Magnetic type recorder	´Å´øÂ¼Òô»ú	null
+null	Main	µçÔ´£¬Ö÷ÒªµÄ	null
+null	Major chord	´óÈıºÍÏÒ	null
+null	Make	½ÓÍ¨£¬±ÕºÏ	null
+null	Makeup	½ÓÍ¨£¬Ñ¡Åä	null
+null	Male	²åÍ·£¬²å¼ş	null
+MAN	manual	ÊÖ¶¯µÄ£¬ÊÖ¿Ø	null
+null	Manifold technology	£¨ÒôÏä£©¶àÆç¹Ü¼¼Êõ	null
+null	Manipulate	²Ù×÷£¬¼ü¿Ø	null
+null	MANP	ÊÖ¶¯´©²å	null
+null	Manual	ÊÖ¶¯µÄ£¬ÈË¹¤µÄ£¬ÊÖ²á£¬ËµÃ÷Êé	null
+null	March	½øĞĞÇú	null
+null	Margin	£¨µçÆ½£©ÓàÁ¿	null
+null	Mark	±êÖ¾£¬·ûºÅ£¬±ê¼Ç	null
+null	Mash	Ñ¹µÍ£¬ÄëËé	null
+null	Masking	ÑÚ±Î	null
+null	Master	×ÜÒôÁ¿¿ØÖÆ£¬µ÷ÒôÌ¨£¬Ö÷ÅÌ£¬±ê×¼µÄ£¬Ö÷µÄ£¬×ÜÂ·	null
+MAR	Matrix	¾ØÕó£¬µ÷ÒôÌ¨¾ØÕó£¨M£©£¬±à×é	null
+null	Match	Æ¥Åä£¬ÊÊÅä£¬Åä¶Ô	null
+null	Matrix quad system	¾ØÕóËÄÉùµÀÁ¢ÌåÉùÏµÍ³	null
+MAX	maximum	×î´ó£¬×î´óÖµ	null
+MB	megabytes	Õ××Ö½Ú	null
+MC	manual control	ÊÖ¿Ø£¬ÊÖ¶¯¿ØÖÆ	null
+MCH	multiple chorus	¶àÂ·ºÏ³ª	null
+MCR	multiple cjhannel amplification reverberation	¶àÂ·»ìÏìÔöÇ¿	null
+MD	mini disc	¹â´ÅÅÌ³ª»ú£¬Ğ¡ĞÍÂ¼·Å³ªÅÌ	null
+MD	moving coil	¶¯È¦Ê½	null
+MDL	modulation delay	µ÷ÖÆÑÓÊ±	null
+MEAS	measure	²âÁ¿£¬·¶Î§£¬²âÊÔ	null
+null	Measure	ÀÖÇúµÄ£¬Ğ¡½Ú	null
+null	Meas edit	Ğ¡½á±à¼­	null
+MECH	mechanism	»úĞµ×°ÖÃ	null
+MED	medium	ÊÊÖĞ£¬ÖĞ¼ä£¨µ²Î»£©	null
+null	Medley	»ìºÏ	null
+null	Mega bass	³¬ÖØµÍÒô	null
+MEM	memory	´æ´¢Æ÷£¬´æ´¢£¬¼ÇÒä	null
+null	Member	²¿¼ş£¬³ÉÔ±	null
+null	Menu	²Ëµ¥£¬Ä¿Â¼£¬±í¸ñ	null
+MEQ	mono equalizer	µ¥ÉùµÀ¾ùºâÆ÷	null
+null	Merge	ºÏ²¢£¬»ã×Ü£¬ÈÚºÏ	null
+null	Meridian	¶¥µãµÄ£¬·åÖµ	null
+null	Measure	Ğ¡½á	null
+null	Megaphone	À®°ÈÍ²	null
+null	Mel	ÃÀ£¨Òôµ÷µ¥Î»£©	null
+null	Menu	²Ëµ¥£¬½ÚÄ¿±í	null
+null	Message	Í¨ĞÅ£¬ÁªÏµ	null
+null	Metal	½ğÊô£¨Ğ§¹ûÉù£©	null
+null	Metal tape	½ğÊô´Å´ø	null
+null	Meter	µçÆ½±í£¬±íÍ·£¬ÒÇ±í	null
+null	Metronome	½ÚÅÄÆ÷	null
+MF	matched filter	Æ¥ÅäÂË²¨Æ÷	null
+MF	maveform	²¨ĞÎ	null
+MF	middle frequency	ÖĞÆµ£¬ÖĞÒô	null
+MFL	multiple flange	¶à²ã·¨À¼£¨Ïâ±ß£©Ğ§¹û	null
+MFT	multiplprogramming with a fixed number of tasks	ÈÎÎñÊıÁ¿¹Ì¶¨µÄ¶àÍ¨µÀ³ÌĞòÉè¼Æ	null
+MIC	micro	Î¢Ã×	null
+MIC	microphone	»°Í²£¬Âó¿Ë·ç£¬´«ÉùÆ÷	null
+null	Michcho level	»°Í²»ìÏìµçÆ½	null
+null	Micro monitor amp	Î¢Òô¼àÌı·Å´óÆ÷	null
+MICROVERB	microcomputer reverb	Î¢´¦Àí»ú»ìÏì	null
+MID	middle	ÖĞ¼äµÄ£¬ÖĞ²¿µÄ£¬ÖĞÒô£¬ÖĞÆµ	null
+MIDI	music instrument digital interface	µç×ÓÀÖÆ÷Êı×Ö½Ó¿Ú	null
+MIN	minimum	×îĞ¡£¬×îĞ¡Öµ	null
+MIN	minute	·ÖÖÓ	null
+MIND	master integrated network device	Ò»Ìå»¯ÍøÂç×Ü×°ÖÃ	null
+null	Minitrim	Î¢µ÷	null
+null	Minitrue	Î¢»úµ÷Õû	null
+null	Minor chord	Ğ¡ÈıºÍÏÒ	null
+null	Mismatch	Ê§Åä	null
+null	Mistermination	ÖÕ¶ËÊ§Åä	null
+null	MIX	»ìºÏ£¬ÒôÁ¿±ÈÀıµ÷½Ú	null
+null	Mixer	µ÷ÒôÌ¨£¬»ìÒôÆ÷	null
+MM	moving magnet	¶¯´ÅÊ½	null
+MNTR	monitor	¼à¿ØÆ÷	null
+MNOS	metallic nitrogen - oxide semiconductor	½ğÊôµªÑõ»¯Îï°ëµ¼Ìå	null
+MO	magneto optical	¿ÉÄ¨¿ÉÂ¼ĞÍ¹âÅÌ	null
+MOC	magnet oscillator circuit	Ö÷Õñµ´µçÂ·	null
+MOD	mode	×´Ì¬£¬·½Ê½£¬Ä£Ê½	null
+MOD	model	ĞÍºÅ£¬ÑùÊ½£¬Ä£ĞÍ£¬µäĞÍµÄ	null
+MOD	modulation	µ÷ÖÆ	null
+null	Mode	×´Ì¬£¬£¨ÀÖÇúµÄ£©µ÷Ê½	null
+null	Mode select	·½Ê½Ñ¡Ôñ	null
+null	Mush	ÔëÉù¸ÉÈÅ£¬·ÖĞ³²¨	null
+null	Mush area	²»Á¼½ÓÊÕÇø	null
+null	Music	ÒôÀÖ£¬ÀÖÇú	null
+null	Music center	ÒôÀÖÖĞĞÄ£¬×éºÏÒôÏì	null
+null	Music conductor	ÒôÀÖ¿ØÖÆÆ÷	null
+MUT	mute	¾²Òô£¬ÑÆÒô£¬ÔëÉù¿ØÖÆ	null
+null	Muting	ÒÖÖÆ£¬Ïû³ı	null
+null	Multiple	¸´ºÏµÄ£¬¶àÏîµÄ£¬¶àÖØµÄ	null
+MV	mean value	Æ½¾ùÖµ	null
+MV	multivibrator	¶àĞ³Õñµ´Æ÷	null
+MW	medium wave	ÖĞ²¨	null
+MXE	mono exciter	µ¥ÉùµÀ¼¤ÀøÆ÷	null
+MXR	mixer	»ìÆµÆ÷	null
+null	Name	Ãû³Æ£¬ÃüÃû	null
+null	Natural	×ÔÈ»µÄ£¬ÌìÈ»µÄ£¬¹ÌÓĞµÄ	null
+null	Naught	Áã£¬ÎŞ¼ÛÖµ	null
+NC	network controller	ÍøÂç¿ØÖÆÆ÷	null
+NC	numberical control	Êı×Ö¿ØÖÆ	null
+NC	needle chatter	³ªÕëÔëÉù	null
+null	Nazard	Èı±¶Òô	null
+null	Near field	½ü³¡	null
+NEG	negative	¸º£¬Òõ£¨¼«£©	null
+null	NEMO	Êµ¿ö×ª²¥	null
+NEP	noise equivalent power	ÔëÉùµÈĞ§¹¦ÂÊ	null
+null	News	ÈËÉù¹ã²¥ÒôÏìĞ§¹û£¬ĞÂÎÅ	null
+null	Next	ÏÂÒ»¸ö£¬³ªÆ¬Ìø»ØÏÂÇú¼ü	null
+NF	NFB negative feedback	¸º·´À¡	null
+NG	no go	²»Í¨£¬²»¹¤×÷	null
+NG	noise generator	ÔëÉù·¢ÉúÆ÷	null
+null	Ni-Cd nickel-cadmium	ÄøïÓ³äµçµç³Ø	null
+NICAM	near instantaneous companded audio multiplex	×¼Ë²Ê±Ñ¹À©ÉùÒô¶àÂ·¸´ÓÃ£¬µçÊÓÀöÒô£¬Êı×Ö¶àÂ·°éÒôÏµÍ³	null
+null	NIL	Áãµã	null
+null	Noise	ÔëÒô	null
+null	Noise gate	ÔëÉùÃÅ£¬Ñ¡Í¨Æ÷	null
+null	Noise suppressor	ÔëÉùÒÖÖÆÆ÷	null
+NOM	nominal	±ê³ÆµÄ£¬¶î¶¨µÄ	null
+null	Non-direction	È«ÏòµÄ£¬ÎŞÖ¸ÏòĞÔµÄ	null
+null	Nonieme	¾Å±¶Òô	null
+NOP	no operation	ÎŞ²Ù×÷Ö¸Áî	null
+null	NORM	Æ½¾ùÖµ	null
+null	Normal frequency	¼òÕı£¨¹²Õñ£©ÆµÂÊ	null
+null	Notch	´¥µã	null
+null	Note	·ûºÅ£¬×¢ÊÍ£¬Òôµ÷£¬ÒôÂÉ£¬¼ÇÂ¼	null
+null	Notice	×¢ÒâÊÂÏî£¬¼ò½é	null
+NO	number	Êı×Ö£¬ºÅÂë	null
+NR	noise ratio	ÔëÉù±È	null
+NR	noise reduction	½µÔë£¬ÔëÉùÏû³ı	null
+NR	number	Êı×Ö£¬±àºÅ	null
+NAB	national association of broadcasters	¹ú¼Ò¹ã²¥¹¤×÷ÕßĞ­»á	null
+NTSC	national television system committee	£¨ÃÀ¹ú£©¹ú¼ÒµçÊÓÏµÍ³Î¯Ô±»á£¬Õı½»Æ½ºâµ÷·ùÖÆ²ÊÉ«µçÊÓÖÆÊ½	null
+null	Null	¿ÕÎ»£¬ÎŞĞ§µÄ	null
+NV	noise variance	ÔëÉù·½²î	null
+NVT	network virtual terminal	ÍøÂçĞéÄâÖÕ¶Î	null
+MODEM	modulator demodulator	µ÷ÖÆ½âµ÷Æ÷	null
+null	Moderato	ÖĞËÙ	null
+null	Modifier	µ÷½ÚÆ÷	null
+null	Modify	ĞŞ¸Ä£¬µ÷ÊÔ£¬Ä¦»ú£¬ÏŞ¶¨	null
+null	Modulator	µ÷ÖÆÆ÷	null
+null	Module	Ä£¿é£¬×é¼ş£¬ÒòÊı£¬³ÌĞòÆ¬	null
+MOL	maximum output level	×î´óÊä³öµçÆ½	null
+MON	monitor	¼àÌı£¬¼àÊÓÆ÷	null
+null	MONI	¼àÌı£¬µ÷ÒôÊ¦	null
+null	Monkey chatter	´®Òô£¬ÁÚÆµ¸ÉÈÅ£¬½»²æÊ§Õæ	null
+null	Mono	µ¥ÉùµÀ£¬µ¥Ò»	null
+null	Monopit	µ¥Éù±äµ÷	null
+null	Motor cue	»»»úĞÅºÅ£¬ÇĞ»»ĞÅºÅ	null
+MOS	metal-oxide semiconductor	½ğÊôÑõ»¯Îï°ëµ¼Ìå	null
+null	Motor	Âí´ï£¬µç»ú	null
+null	Movie theater	Ó°¾çÔº	null
+null	Moviola	Éù»­¼ô¼­»ú	null
+null	Moving-iron loudspeaker	Éà»ÉÑïÉùÆ÷	null
+MPEG	motion picture coding experts group	»î¶¯Í¼Ïñ±àÂë×¨¼Ò×é£¬Êı×ÖÉùÏñĞÅÏ¢Ñ¹Ëõ±ê×¼	null
+MPF	master pre feed	Ö÷¿ØÇ°À¡ËÍ	null
+MPH	multiple phaser	¶à¼¶ÒÆÏàÆ÷	null
+MPO	maximum power output	×î´óÊä³ö¹¦ÂÊ	null
+MPO	music power output	ÒôÀÖÊä³ö¹¦ÂÊ	null
+MPR	master pre return	Ö÷¿ØÇ°·µ»Ø	null
+MPS	main power switch	Ö÷µçÔ´¿ª¹Ø	null
+MPS	manual phase shifter	ÊÖ¿ØÏàÒÆÆ÷	null
+MPS	microphone power supply	»°Í²µçÔ´	null
+MPS	microprocessor system	¶àÓÃÍ¾È¡ÑùÏµÍ³	null
+MPX	multiplex	¶àÂ·´«Êä£¬¶à´ÎÖØ¸´Ê¹ÓÃ£¬¶àÂ·×ª»»£¬¸´ºÏ	null
+MPX	multiplexer	¶àÂ·×ª»»Æ÷£¬¶àÂ·µ÷ÖÆÆ÷	null
+MPX	VCO	¶àÂ·½âµ÷Ñ¹¿ØÕñµ´	null
+MQSS	music quick select system	¿ìËÙÒôÀÖÑ¡ÔñÏµÍ³	null
+MR	memory read	´æ´¢Æ÷¶Á³ö	null
+MS	manual search	ÊÖ¶¯¼ìË÷	null
+MS	middle side	Ò»ÖÖµüºÏÂ¼Òô¼¼Êõ	null
+MSSS	multi space ound system	¶àÎ¬¿Õ¼äÉùÏµÍ³	null
+MSW	microswitch	Î¢¶¯¿ª¹Ø	null
+MT	multi track	¶à¹ì	null
+MTD	multiple delay	¶à´ÎÑÓÊ±	null
+MTR	magnetic tape redorder	´Å´ø¼ÇÂ¼Æ÷	null
+MTR	micro-wave transmission	Î¢²¨´«Êä	null
+MTR	motor	µç¶¯»ú	null
+MTS	multi-channel television sound	¶àÉùµÀµçÊÓ°éÒô	null
+MTV	music TV	ÒôÀÖµçÊÓ£¨½ÚÄ¿£©	null
+MUF	maximum usable frequency	×î¸ß¿ÉÓÃÆµÂÊ	null
+MULT	multiplier	±¶ÔöÆ÷£¬¹âµç±¶Ôö¹Ü	null
+null	Multi	²¢ÁªµÄ£¬¶àÂ·ÏµÍ³	null
+null	Multidimention control	Éù³¡Õ¹¿í¿ØÖÆ£¬¶àÎ¬¿ØÖÆ	null
+null	Multiband	¶àÆµ¶Î	null
+null	Multi-echo	¶àÖØ»ØÉù	null
+null	Multi plex	¶àÂ·´«Éù	null
+null	Multitap	×ª½Ó£¬£¨¶à²åÍ·£©²å×ù	null
+null	Multiple channel	¶àÍ¨µÀ	null
+null	Multiple effects	×ÛºÏĞ§¹û´¦Àí×°ÖÃ	null
+null	Multiple jack	¶àÑÛ²å×ù	null
+null	Multisound	Ô­Ê¼ÒôÉ«	null
+MUPO	maximum undistorted power output	×î´ó²»Ê§ÕæÊä³ö¹¦ÂÊ	null
+MUSE	multiple sub-Nyquist sompling encoding	¶àÖØÄÎ¿üË¹ÌØÈ¡Ñù±àÂë	null
+null	MIDI	¸ñÊ½ÎÄ¼ş	null
+null	MIDI	ĞÅÏ¢£¬È«¹ı³Ì	null
+N	normal	Õı³££¬ÆÕÍ¨£¬±ê×¼	null
+N	negative	Òõ¼«£¬¸º¼«	null
+null	ohm	Å·Ä·£¨µç×èµÄµ¥Î»£©	null
+null	Oboe	Ë«»É¹Ü	null
+OCK	operation control key	²Ù×÷¿ØÖÆ¼ü	null
+OCL	output capacitorless	ÎŞÊä³öµçÈİ¹¦ÂÊ·Å´óÆ÷	null
+OCL	output control line	Êä³ö¿ØÖÆÏß	null
+OCT	octave	±¶Æµ³Ì£¬°Ë¶ÈÒô	null
+OD	operations directive	²Ù×÷Ö¸Ê¾	null
+OD	optical density	¹âÃÜ¶È	null
+OD	over drive	¹ı¼¤Àø	null
+OFC	office	Ö°ÄÜ	null
+OFC	oxygen-free cupreous	ÎŞÑõÍ­µ¼Ïß	null
+null	Off	¹Ø±Õ£¬¶Ï¿ª	null
+null	Offering	ÌîÈë£¬Ìá¹©	null
+null	Offset	£¨ÒÆÏà£©²¹³¥£¬ĞŞÊÎ£¬Æ«ÖÃ	null
+OFHC	oxygen free high conductivity copper	¸ßµ¼µçÂÊÎŞÑõÍ­µ¼Ïß	null
+null	Ohm	Å·Ä·	null
+null	OK	È·ÈÏ	null
+OL	on line	ÔÚÏß£¬Á¬»ú	null
+OL	over load	¹ıÔØ	null
+null	Omnidirectional	ÎŞ·½ÏòĞÔµÄ	null
+null	On	¿ª£¬½ÓÍ¨	null
+null	Once	Ò»´Î£¬µ¥´Î	null
+null	One-way relay play	µ¥ÏòÌæ»»·ÅÒô	null
+null	Online	Áª»ú£¬ÁªÏß	null
+null	Only	½ö½ö£¬Ö»	null
+null	On-mike	ÕıÔÚËÍ»°£¬¿¿½ü»°Í²	null
+null	One touch	µ¥´¥Á¬½Ó	null
+OP	output	ĞÅºÅÊä³ö	null
+OP	over pressure	¹ıÑ¹	null
+null	Open	´ò¿ª£¬¿ªÆô	null
+null	Operate	²Ù×÷£¬ÔË×ª	null
+null	Operation	²Ù×÷£¬ÔË×ª	null
+null	Operator	²Ù×İÆ÷£¬ºÏ³ÉÆ÷Ëã×Ó	null
+null	Optical	ÊıÂë¹âÀÂ½Ó¿Ú	null
+null	Optical master	¼¤¹âÆ÷	null
+null	Option	Ñ¡ĞÍ£¬Ñ¡Ôñ	null
+null	Optimum	×î¼Ñ×´Ì¬	null
+OPTOISO	optoisolator	¹â¸ôÀëÆ÷	null
+null	Or	»ò£¬»òÕß	null
+ORC	optimum recording current	´ÅÍ·×î¼Ñ¼ÇÂ¼µçÁ÷	null
+null	Orchestra	¹ÜÏÒÀÖÆ÷	null
+null	Organ	·çÇÙ£¬Ôª¼ş	null
+null	Original	Ô­£¨³ÌĞò£©£¬³õÊ¼£¨»¯£©	null
+OSC	oscillator	Õñµ´Æ÷£¬ÊÔ»úĞÅºÅ£¨Ò»Ç§ºÕ×È£©	null
+OSC	oscillograph	Ê¾²¨Æ÷	null
+OSS	optimal stereo signal	×î¼ÑÁ¢ÌåÉùĞÅºÅ	null
+null	OTL	ÎŞÊä³ö±äÑ¹Æ÷¹¦ÂÊ·Å´óÆ÷	null
+OTR	one-touch time recording	µ¥´¥Ê½¶¨Ê±Â¼Ïñ	null
+OTR	operation temperature range	¹¤×÷ÎÂ¶È·¶Î§	null
+OTR	overload time relay	¹ıÔØÏŞÊ±¼ÌµçÆ÷	null
+OUT	output	Êä³ö	null
+null	Outage	ÖĞ¶Ï	null
+null	Out-burst	Âö³å£¬ÉÁ¹â£¬ÉÁÁÁ	null
+null	Outcome	½á¹û£¬Êä³ö£¬¿ªÊ¼	null
+null	Out let	Êä³ö¶Ë×Ó£¬Òı³öÏß	null
+null	Outline	ÂÖÀªÏß	null
+null	Out phase	·´Ïò	null
+OVDB	Overdubs	ÖØµşÂ¼Òô¡¢µşÂ¼	null
+null	Overall	ÂÖÀª£¬×ÜÌåÉÏ	null
+null	Overcut	¹ıµ÷ÖÆ	null
+null	Over drive	¹ı¼¤Àø	null
+null	Overflow	ĞÅºÅ¹ıÇ¿	null
+null	Overhang	£¨¼¤ÀøÆ÷£©µÍÒôÑÓÉìµ÷½Ú	null
+null	Overhearing	´®Òô	null
+OVLD	over lode	¹ıÔØ£¬³¬¸ººÉ	null
+null	Over sampling	¹ıÈ¡Ñù	null
+null	Overtone	·ºÒô	null
+OVWR	overwrite	¸²¸ÇÊ½Â¼Òô	null
+null	Proximity effect	½ü¾àÀëĞ§¹û	null
+null	Prwsnt	Í»³ö¸Ğ	null
+PS	position	Î»ÖÃ£¬×´Ì¬	null
+PSC	program switching center	½ÚÄ¿ÇĞ»»ÖĞĞÄ	null
+PSL	phase sequence logic	ÏàÎ»Ë³ĞòÂß¼­	null
+PSM	peak selector memory	·åÖµÑ¡Ôñ´æ´¢Æ÷	null
+PSM	phase shifter module	ÒÆÏàÄ£¼ş	null
+PSM	pitch shift modulation	½»Æµµ÷ÖÆ	null
+PST	posterrior	ºóÃæ	null
+PST	preset	Ô¤ÖÃ	null
+PSU	power supply	¹©µç	null
+null	Psychological acoustics	ĞÄÀíÉùÑ§	null
+PT	power transformer	µçÔ´±äÑ¹Æ÷	null
+PT	portable	±ãĞ¯Ê½	null
+PT	pulse timer	Âö³å¼ÆÊ±Æ÷	null
+PTD	pan turnout piece delay	ÉùÏñ·ÖÖ§ÑÓÊ±	null
+PTE	private	×¨ÓÃµÄ	null
+PTN	pattern	Ä£Ê½£¬ÑùÊ½	null
+PTN	procedure turn	³ÌĞò±ä»¯	null
+PU	pickup	Ê°Òô	null
+PU	power unit	µçÔ´Éè±¸	null
+null	Pull	À­£¬Ç÷Ïò	null
+null	Pull-in	½ÓÍ¨£¬ÒıÈë	null
+null	Pumping	³éÆøĞ§Ó¦	null
+null	Pure tone	´¿Òô	null
+null	Purging	¾»»¯	null
+null	Push	ÍÆ£¬°´Å¥£¬Ñ¹	null
+null	Push-pull	ÍÆÍìÊ½µÄ	null
+PWM	pulse width modulation	Âö³å¿í¶Èµ÷ÖÆ	null
+PWR	power	µçÔ´£¬¹¦ÂÊ	null
+PZM	pressure zone microphone	Ñ¹Á¦Çø»°Í²	null
+null	P.P.Panoramic potentiometer	È«¾°µçÎ»Æ÷	null
+P-P	peak-Peak	·å-·åÖµ	null
+PPD	pingpong delay	Æ¹ÅÒÑÓÊ±	null
+PPG	programme pulse generator	Âö³å³ÌĞò·¢ÉúÆ÷	null
+PPI	peak program indicator	·åÖµÏÔÊ¾Æ÷	null
+PPI	programmable peripheral interface	³ÌĞòÍâ²¿½Ó¿Ú	null
+PPL	peak program level	·åÖµÒôÁ¿µçÆ½	null
+PPM	peak program meter	·åÖµ½ÚÄ¿±í£¬·åÖµÒôÁ¿±í	null
+PPM	pulse phase modulation	Âö³åÏàÎ»µ÷ÖÆ	null
+null	Pr power rate	¹¦ÂÊ±È	null
+PR	program register	³ÌĞò¼Ä´æÆ÷	null
+PRC	precision	¾«È·£¬¾«Ï¸£¬¾«ÃÜ¶È	null
+null	Pre	Ç°ÖÃ£¬Ô¤±¸£¬Ö®Ç°	null
+null	Pre-delay	Ô¤ÑÓ³Ù	null
+null	Pre echoes	Ô¤»ØÉù	null
+null	Pre emphasis	Ô¤¼ÓÖØ	null
+PREAMP	preamplifier	Ç°ÖÃ·Å´óÆ÷	null
+null	Preselection	Ô¤Ñ¡	null
+null	Presence	ÁÙ³¡Ğ§¹û£¬ÏÖ³¡¸Ğ	null
+null	Present	µ±Ç°ÈÕÆÚ£¬ÏÖÊ±£¬¼´Ê±	null
+null	Preserve	±£´æ£¬Î¬³Ö	null
+null	Preset	Ô¤ÖÃ£¬Ô¤µ÷	null
+null	Press	°´£¬Ñ¹	null
+null	PREV	³ªÆ¬Ìø»ØÉÏÇú¼ü	null
+null	Preview	Ô¤Ñİ	null
+null	Previous	ÏòÇ°£¬Ç°Î»µÄ	null
+null	Prime	Í¬¶ÈÒô	null
+PRM	parameter	²ÎÁ¿	null
+PRO	professional	×¨ÒµµÄ	null
+null	Probe	´«¸ĞÆ÷	null
+null	Process	´¦Àí£¬¼Ó¹¤	null
+PROCR	processor	´¦ÀíÆ÷	null
+PROG	program	³ÌĞò£¬»ù±¾ÒôÉ«	null
+null	Program cartridge	³ÌĞòºĞÊ½´æ´¢Æ÷	null
+null	Program set indicator	µçÄÔÑ¡Çú½ÚÄ¿Ñ¡¶¨Ö¸Ê¾	null
+null	Prosody	ÔÏÂÉ	null
+null	Protect	±£»¤£¬·À»¤	null
+null	Protocol	Í¨ĞÅĞ­Òé	null
+null	POSTF	ºóÖÃ£¨Íò·Ö£©	null
+POT	potentiometer	µçÎ»Æ÷£¬µçÎ»¼Æ	null
+null	Potable	±ãĞ¯µÄ£¬Ğ¡ĞÍµÄ	null
+null	Power	µçÔ´£¬¹¦ÂÊ	null
+null	Power amplifier	¹¦ÂÊ·Å´óÆ÷	null
+null	Power dump	ÇĞ¶ÏµçÔ´	null
+null	Power out	¹¦ÂÊÊä³ö	null
+null	Piower supply	µçÔ´¹©¸ø	null
+PP	peak power	·åÖµ¹¦ÂÊ	null
+PP	personal preference	¸öÈËÔ¤ÖÃ	null
+P	plug	²åÍ·	null
+P	positive	Õı¼«	null
+P	pulse	Âö³å	null
+P	power	¹¦ÂÊ	null
+PA	preamplifier	Ç°ÖÃ·Å´óÆ÷	null
+PA	public address	À©Éù	null
+null	Pace	²½ËÙ£¬¼¶Êı	null
+null	Packed cell	»ı²ãµç³Ø	null
+null	Packing	Í¼ÏñÑ¹Ëõ	null
+P-I-P	picture in picture	»­ÖĞ»­	null
+null	PAD	¶¨ÖµË¥¼õ£¬Ë¥¼õÆ÷£¬£¨´ò»÷ÀÖ´ó°´¼üµÄ£©¹Äµæ	null
+null	Padding	Í³µ÷£¬Ê¹ÿÿÆ½Ö±	null
+null	Paddle	¿ª¹Ø£¬ÃÅµçÂ·	null
+null	Page	Ò»Ãæ£¬£¨´æ´¢Æ÷£©Ò³ÃæµØÖ·£¬Ñ°ÕÒ	null
+null	Pair	£¨Á¢ÌåÉù£©Åä¶Ô£¬±È½Ï	null
+PAL	phase alternation line	ÖğĞĞµ¹Ïà²ÊÉ«µçÊÓÖÆÊ½	null
+PAM	pulse amplitude modulation	Âö·ùµ÷ÖÆ	null
+PAM	pole amplitude modulation	¼«µãµ÷·ù	null
+null	Pan panorama	ÉùÏñµ÷½Ú£¬¶¨Î»£¬È«¾°	null
+null	Panel	Ãæ°å£¬²Ù×İ°å£¬ÅäµçÅÌ	null
+null	Panotrope	µç³ª»ú	null
+null	Paper cone	Ö½Åè	null
+null	Parallel	²¢Áª£¬Æ½ºâ	null
+null	Parametric	²ÎÁ¿µÄ	null
+null	Part	Éù²¿Êı£¬²¿·Ö	null
+null	Partial tone	·ÖÒô£¬·ºÒô	null
+PAS	public address system	À©ÉùÏµÍ³	null
+PASC	precision adaptive subband coding	¾«ÃÜ×ÔÊÊÓ¦·Ö¶Î±àÂë	null
+null	Pass	Í¨¹ı	null
+null	Passive	±»¶¯£¬±»¶¯·ÖÆµ£¬¹¦ÂÊ·ÖÆµ	null
+null	Paste	Õ³Ìù	null
+PAT	pattern	Ä£·Â£¬ĞÍºÅ£¬Í¼Æ×ÌØĞÔÇúÏß	null
+null	Patch	ÁÙÊ±£¬²å½ÓÏß£¬ÓÃÁ¬½ÓµçÀÂ²åÈë	null
+null	Patch bay	ÅäµçÅÌ	null
+null	Patch board	²åÏß°å	null
+null	Patching	ÁÙÊ±½ÓÏß£¬²¹³¥	null
+null	Patching cord system	µ÷¶ÈÈûÉşÏµÍ³	null
+null	Path	ĞÅºÅÍ¨Â·	null
+null	Pattern	ÑùÊ½£¬·½Ê½£¬Ñù°å	null
+null	Pause	ÔİÍ££¬¼äĞª£¬Í£¶Ù	null
+PB	playback	²¥·Å£¬ÖØ·Å	null
+PB	push button	°´Å¥¿ª¹Ø	null
+PBASS	proper bass active supply system	×î¼ÑµÍÒôÖØ·ÅÏµÍ³	null
+PBC	play back control	ÖØ·Å¿ØÖÆ£¬»Ø·Å¿ØÖÆ	null
+PC	perceptual coding	¸Ğ¾õ±àÂë	null
+PC	program control	³ÌĞò¿ØÖÆ	null
+PCB	printed circuit board	Ó¡Ë¢ÏßÂ·°å	null
+PCC	phase correlation cardioid microphone	ÏàÎ»Ïà¹ØĞÄĞÎ»°Í²	null
+PCM	precision capacitor microphone	¾«ÃÜµçÈİ»°Í²	null
+PCM	pulse code modulation	Âö³å±àÂëµ÷ÖÆ	null
+PCM	card	²¨ĞÎÀ©³ä¿¨£¨Ôö¼ÓĞÂÒôÉ«£©	null
+PC-COC	pure copper continuous casting	Á¬ĞøÖıÔì´¿Í­µ¼Ïß	null
+PD	power divider	¹¦ÂÊ·ÖÅäÆ÷	null
+PD	power doubler	¹¦ÂÊ±¶ÔöÆ÷	null
+PD	program directive	³ÌĞòÖ¸Áî	null
+PD	pro-digital	×¨ÒµÊı×Ö½Ó¿Ú	null
+PD	protective device	±£»¤×°ÖÃ	null
+PDM	pulse density modulation	Âö³åÃÜ¶Èµ÷ÖÆ	null
+PDP	plasma display panel	µÈÀë×ÓÏÔÊ¾°å	null
+PDS	partitioned data set	·ÖÇøÊı¾İ×é	null
+PDS	programmable data system	³ÌĞò¿É¿ØÏµÍ³	null
+PDS	power distribution system	ÅäµçÏµÍ³	null
+PE	phase encoding	ÏàÎ»±àÂë	null
+PE	program execution	³ÌĞòÖ´ĞĞ	null
+null	Peak	·åÖµ£¬Ï÷²¨£¨µÆ£©	null
+null	Peak and dip	·åÊ½ÆµÂÊÅ·ÖŞ±ê×¼21½ÅAV½Ó¿Ú	null
+null	Pedal	Ì¤°å	null
+PEM	pulse edge molulation	Âö³å±ßÔµµ÷ÖÆ	null
+null	Pentatonic	ÎåÉùµ÷Ê½	null
+PEQ	parameter equalizer	²ÎÁ¿¾ùºâÆ÷	null
+PERC	percussion	´ò»÷ÀÖÆ÷	null
+null	PERCUS	´ò»÷ÀÖÆ÷	null
+null	Performance	Ê©ĞĞ£¬±íÑİ£¬±íÏÖ£¬Ñİ³ö	null
+null	Permalloy head	ÆÂÄªºÏ½ğ´ÅÍ·	null
+null	Permutator	×ª»»¿ª¹Ø£¬±ä»»Æ÷	null
+null	Perspective	Á¢Ìå¸Ğ	null
+null	Perform	Ö´ĞĞ£¬Íê³É£¬Ê©ĞĞ	null
+null	Period	ÖÜÆÚ	null
+PFL	per fader louder speaker	Ë¥¼õÇ°¼àÌı£¬Ô¤¼àÌı	null
+PG	pulse generator	Âö³å·¢ÉúÆ÷	null
+PGM	program	½ÚÄ¿£¬³ÌĞò	null
+null	Pgmtime	½ÚÄ¿Ê±¼ä	null
+PH	phase	ÏàÎ»	null
+PH	phasemeter	ÏàÎ»ÒÇ	null
+PHA	phase	ÏàÎ»	null
+null	Phantom	»ÃÏñµçÔ´£¬»ÃÏó¹©µç	null
+null	Phase	ÏàÎ»£¬×´Ì¬	null
+null	Phase REV	µ¹Ïà£¨µçÂ·£©	null
+null	Phaser	ÒÆÏàÆ÷	null
+null	Phasing	ÏàÎ»Ğ£Õı£¬ÒÆÏàĞ§¹û	null
+null	Phon	·½£¨Ïì¶Èµ¥Î»£©	null
+null	Phone	¶ú»ú£¬¶ú»ú²å¿Ú	null
+null	Phoneme	ÒôËØ	null
+PHS	phaser	ÒÆÏàÆ÷	null
+null	Physiological acoustics	ÉúÀíÉùÑ§	null
+PI	phase inversion	µ¹Ïà	null
+PIA	peripheral interface adapter	ÍâÎ§½Ó¿ÚÊÊÅäÆ÷	null
+null	Pianotron	µç×Ó¸ÖÇÙ	null
+null	Piano	¸ÖÇÙ	null
+null	Piano whine	¸ÖÇÙÃùÉù	null
+null	Piccolo	¶ÌµÑ	null
+null	Pick-up	Ê°ÒôÆ÷£¬³ªÍ·£¬´«¸ĞÆ÷	null
+null	Piezoelectric polymer earphone	Ñ¹µç¾ÛºÏÎï¶ú»ú	null
+null	Pilot	Ö¸Ê¾Æ÷£¬µ÷½ÚÆ÷	null
+null	Pilot jack	¼àÌı²å¿×	null
+null	Pin	ÕëĞÍ²å¿Ú£¬²»Æ½ºâÒôÆµ²å¿Ú	null
+PIN	position indercator	Î»ÖÃÖ¸Ê¾Æ÷	null
+PIN	positive-intrinsic-negative	Õı-±¾-¸º	null
+null	Pinboard	×ª½Ó°å£¬²å½Ó°å	null
+null	Ping	±¬ÃùÉù£¬ÉùÏì	null
+null	Pink noise	·ÛºìÔëÉù	null
+null	Pipe	¹Ü£¬µÑ	null
+null	Pitch	Òô¸ß£¬Òôµ÷	null
+null	Pitch shifter	±äµ÷Æ÷£¬ÒÆÆµÆ÷	null
+PK	peak	Ï÷²¨£¨µÆ£©£¬·åÖµ	null
+PL	parental lock	·ÀÖ¹Îó¶¯Ëø¶¨	null
+PL	phase lock	ÏàÎ»Ëø¶¨£¬ËøÏà	null
+PL	pilot lamp	Ö¸Ê¾µÆ	null
+PL	pre listen	Ô¤¼àÌı£¬Ë¥¼õÇ°¼àÌı	null
+null	Place	ÖÃÈë£¬Æğ×÷ÓÃ	null
+null	Placement	Á¬½Ó·½Ê½	null
+null	Plate	½ğÊô°åĞ§¹û£¬°å»ìÏìÆ÷	null
+null	Play	²¥·Å£¬ÖØ·Å£¬µ¯×à	null
+null	Playback	²¥·Å	null
+null	Player	³ª»ú£¬·ÅÒôÆ÷	null
+null	Plesoelectric supper tweeters	Ñ¹µçÊ½³¬¸ßÒôÀ®°È	null
+PLL	phase locked loop	ËøÏà»ØÂ·	null
+PLR	plate reverb	½ğÊô°å»ìÏì	null
+null	Plug	²åÍ·	null
+null	Plunge	ÇĞÈë	null
+PMPO	peak music power output	ÒôÀÖ·åÖµ¹¦ÂÊÊä³ö	null
+PN	pseudo noise	Î±Ëæ»úÔëÉù	null
+null	Pneumatic loudspeaker	Æø¶¯ÑïÉùÆ÷	null
+PNM	pulse number modulation	Âö³åÊıµ÷ÖÆ£¬Âö³åÃÜ¶Èµ÷ÖÆ	null
+null	Point	½Óµã£¬Î»ÖÃ£¬½»»ãµã	null
+null	Point soure	µãÉùÔ´	null
+null	Pointer	Ö¸Ê¾Æ÷£¬Ö¸Õë	null
+null	Polarity	¼«ĞÔ	null
+null	Poly	¸´Òô£¬¶àÂ·£¬¶à	null
+null	Pop	Í»È»£¬±¬ÆÆÒô£¬£¨»°Í²½ü½²Ê±µÄ£©ÆøÏ¢àÛàÛÉù	null
+null	Pop filter	àÛÉùÂË³ıÆ÷	null
+null	Pops	Á÷ĞĞÒôÀÖ£¬Á÷ĞĞÒôÀÖÒôÏìĞ§¹û	null
+null	Portamento	»¬Òô	null
+null	Ported reflex	Ô¤·ÅÓ³	null
+null	Position	Î»ÖÃ£¬×´Ì¬	null
+POSITVE	positive	Ñô¼«	null
+Q	quality factor	Æ·ÖÊÒòÊı£¬QÖµ£¬Æµ´ø¿í¶È	null
+QD	quadrant	ÏóÏŞ	null
+QD	quick disconnect	Ñ¸ËÙ¶Ï¿ª	null
+null	Quack	àĞÔÓÉù	null
+QUAD	quadriphonic	ËÄÉùµÀÁ¢ÌåÉù	null
+null	Quadrature	Õı½»£¬90¶ÈÏàÎ»²î£¬¾«µ÷	null
+null	Quality	ÒôÖÊ£¬ÉùÒô	null
+QUANT	quantitative	¶¨Á¿µÄ	null
+QUANT	quantize	Á¿»¯£¬Êı×Ö»¯	null
+null	Quantizing	Á¿»¯	null
+null	Quartz synthesized FM/AM digital tuner	Ê¯Ó¢¾§ÌåÆµÂÊºÏ³ÉÊ½µ÷Æµ/µ÷·ùÊı×Öµ÷Ğ³Æ÷	null
+null	Quartz PLL frequency synthesizer	¾§ÌåÏúÏà»·ÆµÂÊ	null
+null	Quaver	°Ë·ÖÒô·û	null
+null	Quench	¶Ï¿ª£¬ÒÖÖÆ	null
+null	Quint	Îå¶È£¬´ÎÈı±¶Òô	null
+null	Quiver	²ü¶¯Éù	null
+null	Ribbon microphone	ÂÁ´ø»°Í²£¬Ñ¹Á¦´ø»°Í²	null
+null	Richness	·áÂú¶È	null
+null	Rhythm	½Ú×à	null
+null	Right	ÓÒÉùµÀ£¬´¹Ö±µÄ£¬ÊÊµ±µÄ	null
+null	Ring	»·£¬´óÈıĞ¾»·¶Ë£¬Àä¶Ë½Óµã£¬ÕñÁå	null
+null	Ring mode	Éù·´À¡ÁÙ½çÕñÁåÕñµ´ÏÖÏó	null
+null	Rit	½¥Âı	null
+RF	radio frequency	ÉäÆµ£¬¸ßÆµ	null
+RM	regular matrix record	Õı¹æ¾ØÕóÊ½ËÄÂ·³ªÆ¬	null
+RM	ring modulation	»·ĞÎµ÷ÖÆÆ÷	null
+RMD	fing mode decoupling	£¨ÒôÏä£©ÕñÁåÍËñî¼¼Êõ	null
+RMR	room reverb	·¿¼ä»ìÏì	null
+RMS	random music sensor	Ëæ»úÒôÀÖÌ½²âÆ÷	null
+null	Rms root mean square	ÓĞĞ§Öµ	null
+RND	random	Ëæ»úµÄ	null
+RNG	ring	ÕñÁå	null
+null	Roadrack	×¨ÒµÆ÷²Ä¼Ü	null
+null	Rock	Ò¡¹öÀÖ¡¢Ò¡¹öÀÖÒôÏìĞ§¹û	null
+null	Rod antenna	À­¸ËÌìÏß	null
+RODS	reverberation on demand system	»ìÏìÇëÇóÏµÍ³	null
+null	Rolloff	¸ßµÍÆµ¹æÂÉĞÔË¥¼õ£¬¹ö½µ	null
+ROM	read only memory	Ö»¶Á´æ´¢Æ÷	null
+null	Room	·¿¼ä	null
+null	Rose	½ÓÏßºĞ	null
+null	Rotary	Ğı×ª	null
+RT60	Reverberation time	»ìÏìÊ±¼ä	null
+null	Rough	´ÖµÄ£¬´Ö²ÚµÄ£¬½üËÆµÄ	null
+null	Routing	»ìºÏÄ¸ÏßÑ¡Ôñ	null
+RP	record playback	Â¼·Å	null
+RP	repeater	ÔöÒô×ª·¢Æ÷	null
+RPLC	replace	Ìæ»»	null
+RSS	Roland sound space processing system	ÂŞÀ¼Éù¿Õ¼ä´¦ÀíÏµÍ³	null
+RT	rael time	ÊµÊ±·ÖÎö	null
+RT	recovery time	»Ö¸´Ê±¼ä	null
+RT	return	·µ»Ø	null
+RTA	real time analyzer	ÊµÊ±·ÖÎö£¨ÒÇ£©£¬ÆµÆ×·ÖÎö£¨ÒÇ£©	null
+RTS	real time simulator	ÊµÊ±Ä£Äâ	null
+RTS	real time system	ÊµÊ±ÏµÍ³	null
+RTY	rotary	Ğı×ª£¨ÑïÉùÆ÷£©	null
+null	Rubber corrugated ri loudspeaker	ÏğÆ¤±ßÑïÉùÆ÷	null
+null	Ruby stylus	ºì±¦Ê¯³ªÕë	null
+null	Rumba	Â×°Í	null
+null	Rumble	£¨µÍÆµ£©Â¡Â¡Éù	null
+RV	rendezvous	»á¾Ûµã	null
+RVS	reverse shift	·´ÏòÒÆ¶¯	null
+RZ	return to zero	¹éÁã	null
+null	Reversal	·´Ïà£¬Ïà·´£¬·´×ª£¬¸Ä±ä¼«ĞÔ	null
+null	Reverse	»Ø¸´£¬·­×ª£¬·´»ìÏì	null
+null	Revert	¸´Ô­£¬·µ»Ø	null
+null	Review	¼ì²é£¬¸´²é£¬ÖØ¸´	null
+null	Revolve	Ğı×ª£¬Ñ­»·	null
+REW	rewind	¿ìËÙµ¹´ø	null
+RF	radio frequency	ÉäÆµ	null
+RF	reception fair	½ÓÊÕÇé¿öÁ¼ºÃ	null
+RFI	RF interface	ÉäÆµ½Ó¿Ú	null
+RFI	RF interferece	ÉäÆµ¸ÉÈÅ	null
+null	Revcolor	»ìÏìÈ¾É«Éù	null
+RPS	direct program	Ö±½Ó½ÚÄ¿ËÑÑ°£¬¿¨À­OKËÑË÷	null
+R	receiver	½ÓÊÕ»ú	null
+R	register	¼Ä´æÆ÷	null
+R	right	ÓÒÉùµÀ	null
+null	Rack	»ú¼Ü£¬Ö§¼Ü£¬»ú¹ñ£¬¹æ¶¨¿í¶È£¬Õğ¶¯Éù	null
+null	Radiation	·øÉä	null
+null	Radio	ÎŞÏßµç£¬ÊÕÒô»ú£¬ÉäÆµ	null
+null	Ram random access memory	Ëæ»ú´æ´¢Æ÷	null
+null	RAM	ÌîÈë£¬×°Èë	null
+RAN	random	Ëæ»úµÄ£¬ÈÎÒâµÄ£¬ÎŞ¹æÔòµÄ	null
+null	Range	·¶Î§£¬×î´óÌáË¥Á¿£¬·ù¶È	null
+null	Rate	±ÈÂÊ£¬ËÙÂÊ£¬±ä»¯ÂÊ£¬ÆµÂÊ	null
+null	Ratio	Ñ¹Ëõ±È£¬À©Õ¹±È£¬±È£¬ÏµÊı	null
+RCA	radio corporation of America	ÃÀ¹úÎŞÏßµç¹«Ë¾	null
+RCA	jack	Á«»¨½Ó¿Ú	null
+null	R-CH	ÓÒÉùµÀ	null
+R-DAT	rotary head-DAT	Ğı×ª´ÅÍ·Ê½Êı×ÖÂ¼Òô»ú	null
+RE	rack earth	Íâ¿Ç½ÓµØ	null
+RE	reset	¸´Î»	null
+RE	right end	ÓÒ¶Ë	null
+null	Reactance	µç¿¹	null
+null	Readjustment	ÖØµ÷	null
+null	Ready	Ô¤±¸£¬×¼±¸Íê±Ï	null
+null	Rear	±³Ãæ£¬ºó²¿£¬ºóÖÃ	null
+REC	recording	Â¼Òô£¬¼ÇÂ¼£¬Â¼ÖÆ	null
+null	Recall	ÕĞ»Ø£¬µ÷³ö£¬ÖØÂ¼	null
+null	Receiver	½ÓÊÜ»ú£¬½ÓÊÜÆ÷	null
+null	Recharge	ÔÙ³äµç	null
+null	Record	¼ÇÂ¼£¬Â¼ÖÆ£¬³ªÆ¬	null
+null	Recorder	Â¼Òô»ú	null
+null	Recovery	»Ö¸´£¬¸´Ô­	null
+null	Red	ºìÉ«	null
+null	Redo	ÔÙÖ´ĞĞ²Ù×÷	null
+null	Reduce	¼õÉÙ£¬½µµÍ£¬ËõĞ¡	null
+null	Reduction	Ñ¹Ëõ£¬Ë¥¼õ£¬ĞÎ³É	null
+null	Reecho	»ØÉù	null
+REF	Reference	ËµÃ÷Êé£¬²Î¿¼£¬»ù×¼£¬¶¨Î»	null
+REF	Reflection	·´Éä	null
+null	Refraction	ÕÛÉä	null
+null	Refresh	»Ö¸´	null
+REG	register	¼Ä´æÆ÷	null
+REG	regulate	¿ØÖÆ£¬Ğ£×¼£¬µ÷½Ú	null
+REGEN	regeneration	ÔÙÉú£¨»ìÏìÉùÕóĞÎ³É·½Ê½£©£¬Õı·´À¡	null
+null	Rehearsal	ÅÅÁ·£¬Ô¤Ñİ	null
+null	Reject	³ıÈ¥£¬ÂËÈ¥	null
+null	Rejection	ÒÖÖÆ	null
+null	Reinforcement	À©Éù	null
+null	Relay	¼ÌµçÆ÷£¬ÖØ·Å£¬×ª·Å	null
+null	Release	»Ö¸´Ê±¼ä£¬ÊÍ·Å£¬¶ÏÂ·Æ÷	null
+null	Rename	¸ÄÃû£¬ÃüÃû	null
+null	Remain	±£³Ö£¬Ê£Óà	null
+REM	remote	Ò£¿ØµÄ£¬Ò£Ô¶µÄ£¬Ô¶¾àÀëµÄ	null
+REM	removable	¿É²ğ×°µÄ	null
+REM	remove	³ıÈ¥	null
+null	Remain	ÓàÁ¿£¬×´Ì¬±£³Ö	null
+null	Renumber	ÖØĞ´ºÅÂë	null
+REP	repeat	ÖØ¸´£¬·´¸´£¬ÖØ·Å	null
+null	Repeat mode	Ë«Ãæ·´¸´·ÅÒô£¨Â¼Òô»ú£©	null
+null	Replacing	Ìæ»»£¬ÖÃ»»£¬¸´Î»	null
+REQ	room equalizer	·¿¼ä¾ùºâÆ÷	null
+null	Reset	¸´Î»£¬»Ö¸´£¬¹éÁã£¬ÖØ¸´£¬ÖØĞÂ°²×°	null
+null	Resolution	·Ö±æÂÊ£¬·ÖÎö	null
+null	Resonance	¹²Õñ£¬»ØÉù	null
+RESP	response	ÏìÓ¦£¬ÌØĞÔÇúÏß£¬»Ø´ğ	null
+null	Resistance	×è¿¹	null
+null	Resister	µç×è	null
+null	Resonance	¹²Ãù£¬Ğ³Õñ	null
+null	Restraint	ĞİÖ¹·û£¬¾²Ö¹£¬Í£Ö¹	null
+null	Restraint	ÒÖÖÆ£¬ÏŞÖÆÆ÷	null
+RET	return	·µ»Ø£¬»ØËÍ	null
+REV	reverse	µßµ¹£¬·´×ª	null
+REV	reverberation	»ìÏì£¬²ĞÏì	null
+null	Reverb depth control	»ìÏìÉî¶È¿ØÖÆ	null
+RIAA	recording industry association of America	ÃÀ¹úÂ¼Òô¹¤ÒµĞ­»á	null
+SAF	Safety	°²È«×°ÖÃ£¬±£ÏÕ×°ÖÃ£¬±£»¤×°ÖÃ	null
+null	Safeguard by	·À»¤Æ÷	null
+SALT	symmetry air load technique	¶Ô³Æ¿ÕÆø¸ºÔØ¼¼Êõ	null
+null	Samba	É£°Í	null
+null	Sample	ÉùÒôĞÅºÅÑùÆ·£¬²ÉÑù£¬È¡Ñù£¬³éÑù	null
+null	Sampling	³éÑù£¬Âö³åµ÷ÖÆ	null
+SAP	second audio program	µÚ¶şÌ×ÒôÆµ½ÚÄ¿	null
+SAT	saturate	±¥ºÍĞ§¹û´¦Àí	null
+null	Save	Öü´æ	null
+null	Save	´æ´¢£¬±£´æ	null
+null	Saxophoneb	Èø¿ËË¾¹Ü	null
+null	Saxophome	¶¥À¡Ö±ÏßÌìÏß	null
+SC	set clock	ÖÃÎ»Ê±ÖÓ	null
+SC	sigmal control	ĞÅºÅ¿ØÖÆ	null
+SC	subcarrier	¸±ÔØ²¨	null
+SC	system controller	ÏµÍ³¿ØÖÆÆ÷	null
+SC	scan	É¨Ãè	null
+null	Scale	Òô½×£¬¿Ì¶È³ß±ê	null
+null	Scale unit	±ê¶Èµ¥Î»£¬·ÖÆµÆ÷	null
+null	Scan	ËÑË÷£¬¼ÇÂ¼£¬É¨Ãè	null
+null	Scar	¼¤¹â³ªÆ¬ÉÏµÄÈ±Ïİ	null
+null	SCART connector	Å·ÖŞ±ê×¼21½ÅAV½Ó¿Ú	null
+null	Scattering	É¢Éä	null
+null	Scene	Êµ¿ö£¬³¡Ãæ	null
+SCH	search	ËÑË÷£¬Ñ°ÕÒ	null
+null	Scheme	Éè¼ÆÍ¼£¬Ô­ÀíÍ¼	null
+SCMS	serial copy management system	³ÉÌ×¸´ÖÆ¹ÜÀíÏµÍ³	null
+null	Screw	ÂİË¿¶¤	null
+null	Scrollback	»ØÕÒ	null
+SCH	stereochrous	Á¢ÌåÉùºÏ³ª	null
+null	Schmidt trigger	Ê©ÃÜÌØ´¥·¢Æ÷	null
+null	Scintillation	ÉÁË¸£¬µ÷ÖÆÒıÆğµÄÔØÆµ±ä»¯	null
+SCMS	successive copy manage system	Á¬Ğø¸´ÖÆ¹ÜÀíÏµÍ³£¨DATÉè±¸ÖĞ·ÀÖ¹¶à´Î×ªÂ¼½ÚÄ¿µÄÏµÍ³£©	null
+null	Scoop	ìæ¶·£¬ÊÕ¼¯Æ÷	null
+null	Scope	·¶Î§£¬ÏÔÊ¾Æ÷	null
+null	Scoring	ÒôÀÖÂ¼Òô	null
+SCR	signal to clutter ratio	ĞÅÔë±È	null
+SCR	silicon controlled rectifier	¾§Õ¢¹ÜÕûÁ÷Æ÷	null
+null	Scraper	¹ÎÉùÆ÷	null
+null	Screen	ÆÁ±Î	null
+SD	space division	¿Õ¼ä·Ö²¼	null
+S-DAT	stationary head DAT	¹Ì¶¨´ÅÍ·DAT»ú	null
+SDDS	sony dynamic digital sound	Ë÷Äá¶¯Ì¬Êı×Ö»·ÈÆÉùÏµÍ³	null
+SDI	standard data interface	±ê×¼Êı¾İ½Ó¿Ú	null
+SDLC	synchronous data link control	Í¬²½Êı¾İÁ´¿ØÖÆÆ÷	null
+SE	single end	µ¥¶ËµÄ	null
+SE	sound effect	ÒôÏìĞ§¹û	null
+SE	storage element	´æ´¢Ôª¼ş	null
+SE	support equipment	Ö§Ô®Éè±¸	null
+SEA	soond effect amplifier	ÒôÏìĞ§¹û·Å´óÆ÷	null
+SEA	special effects amplifier	ÌØÊâĞ§¹û·Å´óÆ÷	null
+null	Search	ËÑË÷£¬É¨Ãè	null
+null	Searcher	É¨ÃèÆ÷	null
+SEC	Second	Ãë£¬µÚ¶ş	null
+SECAM	sequential color and memory	µ÷ÆµĞĞÂÖ»»²ÊÉ«ÖÆÊ½	null
+null	Section	µ¥Ôª£¬»·½Ú	null
+null	Sectoral horm	ÉÈĞÎºÅÍ²	null
+null	Security	±£ÏÕ£¬¼ÓËø	null
+SED	system effectiveness demonstration	ÏµÍ³Ğ§¹ûÑİÊ¾	null
+null	Seek	ËÑË÷	null
+SEL	selector	Ñ¡Ôñ×°ÖÃ£¬Ñ°ÏßÆ÷£¬×ª»»¿ª¹Ø	null
+null	Select	Ñ¡Ôñ	null
+null	Selectivity	£¨ÊÕÒô»ú£©Ñ¡ÔñĞÔ	null
+null	Semi-	°ë-	null
+null	Semibreve	È«Òô·û	null
+null	Semioctave	°ë¸ö°Ë¶ÈÒô	null
+null	Semit	°ëÒô	null
+SEN	sensor	´«¸ĞÆ÷	null
+null	Send	ËÍ³ö£¬·¢ËÍ£¬·¢Éä	null
+SENS	Sensitivity	ÁéÃô¶È	null
+null	Sense	·Ö±æÂÊ	null
+null	Sensor	´«¸ĞÆ÷	null
+null	Sentinel	·¢ÉäÆ÷£¬´«ËÍÆ÷	null
+SEP	standard electronic package	±ê×¼µç×Ó×é¼ş	null
+SEP	system engineering process	ÏµÍ³¹¤³Ì´¦Àí	null
+null	Separator	·ÖÀëÆ÷£¬·Ö½âÆ÷	null
+null	Septieme	Æß±¶Òô	null
+SEQ	sequencer	ÒôĞòÆ÷£¬¶¨ĞòÆ÷	null
+SEQ	Stereo equalizer	Á¢ÌåÉù¾ùºâÆ÷	null
+null	Sequence	ÅÅĞò£¬ĞòÁĞ	null
+null	Series	ÏµÁĞ£¬´®Á¬	null
+null	Service	Î¬ĞŞ£¬·şÎñ	null
+null	Servo	ËÅ·ş»ú¹¹£¬Ëæ»úÏµÍ³	null
+null	Servo motor	ËÅ·şÂí´ï	null
+SES	spatial effect system	Á¢ÌåÉù¿Õ¼äĞ§¹ûÏµÍ³	null
+null	Session	¸úËæ×Ô¶¯°é×à	null
+null	Set	µ÷Õû£¬Éè¶¨£¬×°ÖÃ£¬¶¨Î»£¬½ÓÊÕ»ú	null
+null	Setout	¿ªÊ¼£¬×¼±¸	null
+null	Setup	Éè¶¨£¬¹¹³É£¬²Ëµ¥£¬×éºÏ£¬µ÷Õû	null
+SFC	sound field composer	Éù³¡ºÏ³É×°ÖÃ	null
+SFL	stereo flange	Á¢ÌåÉù·¨À¼Ïâ±ß	null
+SFS	sound field synthesis	Éù³¡ºÏ³É	null
+SG	signal generator	ĞÅºÅ·¢ÉúÆ÷	null
+SGL	signal	ĞÅºÅ	null
+null	S-hall small hall	Ğ¡ĞÍÌüÌÃĞ§¹û	null
+null	Shake	Õğ¶¯	null
+null	Shape	²¨ĞÎ£¬ÂÖÀÈ	null
+null	Shaper	ÕûĞÎÆ÷£¬Âö³å³ÉĞÎ	null
+null	Share drum	Ğ¡¾ü¹Ä	null
+null	Sharpness	ÇåÎú¶È£¬ÏÊÃ÷¶È£¬Èñ¶È	null
+null	Shelving	ÂË³ı£¬ÂË²¨´¦Àí	null
+SHG	sub harmonic generator	´Î£¨·Ö£©Ğ³²¨·¢ÉúÆ÷	null
+null	Shield	±£»¤£¬ÆÁ±Î	null
+null	Shift	×ª»»£¬±äµ÷£¬ÒÆÆµ£¬Æ¯ÒÆ	null
+null	Shock	³å»÷	null
+null	Short	¶ÌµÄ	null
+null	Short gate	¶ÌÊ±Ñ¡Í¨ÃÅ£¨»ìÏìĞ§¹û£©	null
+null	Shower	Ö¸Ê¾Æ÷£¬ÏÔÊ¾Æ÷	null
+SHUF	Shuffle	Ëæ»úË³Ğò½ÚÄ¿²¥·Å	null
+null	Shunt	·ÖÂ·£¬²¢Áª	null
+SHUTT	shuttle	±äËÙËÑË÷£¬Íù¸´	null
+SI	sneak in	µ­Èë	null
+null	Sibilance	³İÒô£¬ßĞÒô	null
+null	Sibilant	ßĞÒô	null
+null	Sibilation	ßĞÒô£¬¸ßÆµÉù»û±ä	null
+SICS	sound image control system	ÉùÏñ¿ØÖÆÏµÍ³	null
+null	Side	±ß£¬Ãæ£¬²àÃæ£¬·½Ãæ	null
+null	Side chain	ÅÔÁ´	null
+SIG	signal	ÉùÒôĞÅºÅ	null
+null	Signature	ÌØÕ÷£¬ÒôÀÖµÄµ÷ºÅ	null
+null	SIF	°éÒôÖĞÆµ	null
+null	Silencer	¾²ÔëÆ÷	null
+null	Silent	¾²Ôëµ÷Ğ³	null
+null	Simple tone	´¿Òô	null
+null	Simplex	µ¥¹¤	null
+null	Simulate	Ä£ÄâµÄ	null
+null	Simultaneous	Í¬²½£¬ÁªÁ¢	null
+SINAD	signal to noise and distortion ratio	ĞÅºÅ¶ÔÔëÉùºÍÊ§Õæ±È	null
+null	Sine wave	ÕıÏÒ²¨	null
+null	Single	µ¥£¬µ¥´ÎµÄ£¬µ¥¶ÀµÄ£¬µ¥µú	null
+SIP	solo in place	¶À×àÈëÎ»	null
+SIP	standard information package	±ê×¼ĞÅÏ¢°ü	null
+null	Siren	ĞıµÑ	null
+null	Size	³ß´ç	null
+null	Skew control	Å¤ÇúĞ£Õı£¬ÁâĞÎÊ§ÕæÆ÷	null
+null	Skip	ÌøÔ¾£¬Ê¡ÂÔ	null
+SL	signal level	ĞÅºÅµçÆ½	null
+null	Slap	ÅÄ´òĞ§¹û	null
+null	Slap back	É½¹È»ØÉù	null
+null	Slap reverb	É½¹È»ìÏìĞ§¹û	null
+null	Slate	Ô¤¶¨£¬±ê¼Ç£¬£¨Â¼Òôµ÷ÒôÌ¨£©±ê¼Ç¿ª¹Ø	null
+null	Slave	´ÓÊôµÄ£¬´Ó»ú£¬´Ó¶¯µÄ	null
+null	Sleep	Ë¯Ãß¶¨Ê±¿ª¹Ø£¬¾²Ö¹	null
+null	Slew rate	Ë²Ì¬ÂÊ	null
+null	Sliding tone	»¬Òô	null
+null	Slope	Ğ±ÂÊ£¬ÆÂ¶È£¬¿çµ¼	null
+null	Slow	ÂıËÙ	null
+SLP	super long play	³¬³¤£¨Èı±¶£©Ê±¼ä²¥·Å	null
+null	Sliding tone	»¬Òô	null
+SLS	studio listen	Ñİ²¥ÊÒ¼àÌı	null
+SM	sequential machine	Ê±Ğò»ú	null
+SM	signal meter	ĞÅºÅÇ¿¶È¼Æ	null
+SM	storage mark	´æ´¢±êÖ¾	null
+null	Small club	Ğ¡¾ãÀÖ²¿Ğ§¹û	null
+null	Smear	Ò·Î²£¬ÍÏÎ²£¬»ë×Ç²»Çå	null
+null	Smear correction	ÍÏÎ²Ğ£Õı	null
+SMF	Standard MIDI File	±ê×¼	null
+SMP	sampler	È¡ÑùÆ÷	null
+SMPTE	society of motion picture television engineers	£¨ÃÀ¹ú£©µçÓ°¼°µçÊÓ¹¤³ÌÊ¦Ñ§»á	null
+SND	sound	ÉùÒô£¬ÒôÏì£¬°éÒô	null
+null	Snake	¼¯ÌåÏß	null
+null	Snapshot	Æ¬¶Î£¬³¡¾°×´Ì¬ÉèÖÃ	null
+null	Snubber	»º³åÆ÷£¬¼õÕğÆ÷	null
+SO	sneak out	µ­³ö	null
+null	Socket	²å×ù£¬²å¿Ú	null
+null	Soft	ÈíµÄ£¬ÈáºÍµÄ	null
+null	Soft click	ÈáĞÔóéÎ»	null
+null	Soft knee	Èí¹Õµã£¨Ñ¹ÏŞÆ÷£©	null
+null	Soft-touch	Çá´¥Ê½	null
+null	Software	¼ÆËã»úÈí¼ş	null
+null	Solo	¶À³ª£¬¶À×à	null
+null	Sone	ËÎ£¨Ïì¶Èµ¥Î»£©	null
+null	Song	ÀÖÇú	null
+null	Sound colum	ÉùÖù	null
+null	Sound field	Éù³¡	null
+null	Sound image	ÉùÏñ	null
+null	Sound intensity	ÉùÇ¿	null
+null	Sound shadow region	ÉùÓ°Çø	null
+null	Sound cousole desk	µ÷ÒôÌ¨	null
+null	Source	ÉùÔ´	null
+SOS	sound on sound	µş¼ÓÂ¼Òô	null
+SP	speaker	ÑïÉùÆ÷	null
+SP	speed	ËÙ¶È	null
+SP	standard-play	±ê×¼×ß´øËÙ¶ÈÂ¼·Å	null
+SPA	stereo pan allochthonous	Á¢ÌåÉùÉùÏñÆ¯ÒÆ	null
+null	Space	¼äÏ¶£¬¿Õ¼äĞ§¹û	null
+null	Spaciousness	¿Õ¼ä¸Ğ	null
+ST	stereo	Á¢ÌåÉù£¬Á¢Ìå	null
+STI	speech transmission index	ÓïÑÔ´«ÊäÏµÍ³	null
+null	Sticks	²Ù×÷¸Ë£¬°²ÖÃ£¬¿¨×Ó	null
+null	Still	¾²Ö¹	null
+STM	send test massage	·¢ËÍ²âÊÔĞÅºÅ	null
+STO	stand point	Î»ÖÃ	null
+STO	stereo	Á¢ÌåÉù	null
+STO	stop	Í£Ö¹	null
+STO	store	´æ´¢£¬´æ´¢Æ÷	null
+STP	shielded twisted pnir	ÆÁ±ÎË«½ÊÏß	null
+null	Strike note	»÷ÏÒÒô£¬×²»÷Éù	null
+null	String instrument	ÏÒÀÖÆ÷	null
+null	Strip	Ğ¶ÏÂ¸½ÊôÉè±¸£¬¹ìµÀ£¬Àà±ğ	null
+null	Strobe	Ñ¡Í¨Âö³å£¬ÆµÉÁ·Åµç¹Ü	null
+null	Strong	ÓĞÁ¦µÄ	null
+null	Structure	×°ÖÃ£¬½á¹¹	null
+STU	Studio	Ñİ²¥ÊÒĞ§¹û	null
+null	SUB	¸±£¬¸¨Öú£¬¸½¼Ó£¬µÍÒô	null
+null	Subgroup	¸±£¬£¨µ÷ÒôÌ¨µÄÍ¨µÀ¼¯ÖĞ¿ØÖÆÍøÂç£©±à×é	null
+null	Suboctave	´Î°Ë¶È	null
+null	Subsonic	´ÎÉù£¬³¬µÍÒô	null
+null	Subwoofer	³¬µÍÒô	null
+null	Sum	ºÍ£¬×ÜºÍ£¬×ÜÊı	null
+SUP	Supply	µçÔ´	null
+null	Supper	³¬	null
+null	Super bass	³¬µÍÒô	null
+null	Super over drive	³¬¼¤Àø	null
+null	Suppressor	ÒÖÖÆÆ÷	null
+null	Support programs	Ö§Ô®³ÌĞò	null
+SUR	Surround	»·ÈÆÉù£¬»·ÈÆ£¬°üÎ§	null
+null	Sustain	±£³Ö£¬Î¬³Ö	null
+SVP	surge voltage protector	ÀËĞ¤µçÑ¹±£»¤Æ÷	null
+SW	signal wire	ĞÅºÅÏß	null
+SW	S-Wite	ÈûÌ×ÒıÏß	null
+SW	switch	¿ª¹Ø£¬ÇĞ»»	null
+SW	short wave	¶Ì²¨	null
+null	Swap	½»»»£¬µ÷¶¯£¨µÈÁ¿Æë¹Û£©£¬µ÷»»	null
+null	Sweep	É¨Ãè£¬ÇúÏß	null
+null	Swell	ÔöÒôÆ÷	null
+null	Swing	°Ú·ù£¬Ò¡°ÚÎè	null
+null	Swishing	ì¬ì¬Éù	null
+SX	simplex	µ¥¹¤	null
+SXE	stereo exciter	Á¢ÌåÉù¼¤ÀøÆ÷	null
+null	Symphobass	µ÷Ğ³µÍÒôÏµÍ³	null
+null	Symphonic	½»Ïì£¬Ğ³Òô	null
+SYS	Ex system expanding	ÏµÍ³À©Õ¹	null
+TRIG	trigger	´¥·¢£¬´¥·¢Æ÷£¬´¥·¢Âö³å	null
+null	Trim	µ÷Õû£¬Î¢µ÷£¬µ÷Ğ³£¬Ï÷²¨	null
+TRK	track	Òô¹ì	null
+TRK	trunk	×ÜÏß£¬Ä¸Ïß£¬¸ÉÏß	null
+null	Trouble	¹ÊÕÏ	null
+null	Trumpet	Ğ¡ºÅ	null
+TRS	time reference system	Ê±¼ä»ù×¼ÏµÍ³	null
+TST	test	²âÊÔ	null
+TTY	teleltypewriter	Ò£¿Ø´òÓ¡»ú£¬µç´«»ú	null
+null	Tube	µç×Ó¹Ü£¬Õæ¿Õ¹Ü	null
+null	Tune	µ÷Ğ³£¬ºÍĞ³£¬µ÷Òô	null
+null	Tuner	µ÷Ğ³Æ÷	null
+null	Tunetable	£¨³ªÅÌµÄ£©×ªÅÌ	null
+null	Tunnel reverb	ËíµÀ»ìÏìĞ§¹û	null
+null	Tupe	´¦ÀíÄ£Ê½	null
+null	Turbo distortion	ÎĞÂÖÊ§ÕæĞ§¹û	null
+null	Turntable	µç³ªÅÌ£¬×ªÌ¨	null
+TV	television	µçÊÓ	null
+null	Tweeter	¸ßÒôÑïÉùÆ÷	null
