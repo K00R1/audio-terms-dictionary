@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Terms Dictionary</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css', v=2) }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Audio Terms Dictionary</h1>
+            <div class="fixed-controls-container">
+                <input type="text" id="searchBar" placeholder="搜索术语...">
+                <div id="fontControls" class="font-switcher">
+                    <button id="fontToggleButton">字</button>
+                    <div id="fontListContainer" class="font-list-container">
+                        <!-- Font options will be dynamically loaded here -->
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div id="categoryButtonsContainer" class="category-buttons-container">
+            <!-- Category buttons will be dynamically loaded here -->
+        </div>
+
+        <div class="terms-list" id="termsList">
+            <!-- Terms will be loaded here -->
+        </div>
+
+    </div>
+
+    <button id="reportError" class="report-button">报错</button>
+
+    <!-- Error Report Modal -->
+    <div id="errorReportModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>报告错误</h2>
+            <form id="errorReportForm">
+                <label for="errorTerm">相关术语 (可选):</label>
+                <input type="text" id="errorTerm" name="term"><br><br>
+
+                <label for="errorType">错误类型:</label>
+                <select id="errorType" name="error_type" required>
+                    <option value="">请选择</option>
+                    <option value="翻译错误">翻译错误</option>
+                    <option value="拼写错误">拼写错误</option>
+                    <option value="解释不准确">解释不准确</option>
+                    <option value="缺失条目">缺失条目</option>
+                    <option value="分类错误">分类错误</option>
+                    <option value="其他">其他</option>
+                </select><br><br>
+
+                <label for="errorDescription">详细描述:</label>
+                <textarea id="errorDescription" name="description" rows="5" required></textarea><br><br>
+
+                <label for="contactInfo">联系方式 (可选):</label>
+                <input type="text" id="contactInfo" name="contact" placeholder="您的联系方式 (邮箱, 手机号, 等)"><br><br>
+
+                <button type="submit">提交报告</button>
+            </form>
+            <p id="reportMessage"></p>
+        </div>
+    </div>
+
+    <!-- Author Contact Info Button and Modal -->
+    <button id="contactAuthorButton" class="floating-button bottom-left">联系作者</button>
+
+    <div id="contactAuthorModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button" id="closeContactModal">&times;</span>
+            <h2>联系作者</h2>
+            <p>邮箱: 1254663304@qq.com</p>
+            <p>小红书号: 548080385</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js', v=2) }}"></script>
+    <div class="footer-content">
+        <hr>
+        <p class="source-text">条目来源: <a href="http://www.hxen.com/word/changyong/2009-01-12/65843.html" target="_blank">http://www.hxen.com/word/changyong/2009-01-12/65843.html</a></p>
+    </div>
+</body>
+</html> 
